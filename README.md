@@ -1,4 +1,4 @@
 Cakebrew-site
 =============
 
-Website for Cakebrew.
+Website for [Cakebrew](https://github.com/brunophilipe/Cakebrew).

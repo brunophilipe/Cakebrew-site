@@ -80,6 +80,11 @@ hr {
 	font-size: 12px;
 }
 
+#main-screenshot
+{
+	margin: auto;
+}
+
 .carousel-inner img
 {
 	/*height: 525px !important;*/

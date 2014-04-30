@@ -57,19 +57,19 @@
 					<br>
 				</div>
 
-				<div class="col-lg-2">
+				<div class="col-lg-2 col-md-3">
 					<h5>Useful</h5>
 					<p>Do most of the usual tasks you need of Homebrew. Including updating and finding problems with the Doctor!</p>
-					<img class="hidden-xs hidden-sm hidden-md arrow" src="assets/img/arrow1.png">
+					<img class="hidden-xs hidden-sm arrow" src="assets/img/arrow1.png">
 				</div>
-				<div class="col-lg-8">
+				<div class="col-lg-8 col-md-6">
 					<img class="img-responsive" id="main-screenshot" src="assets/img/app-bg.png" alt="">
 				</div>
-				<div class="col-lg-2">
+				<div class="col-lg-2 col-md-3">
 					<br>
 					<h5>Practical &amp; Easy</h5>
-					<p>Too afraid to use the terminal but need that small program? Cakebrew is for you too!</p>
-					<img class="hidden-xs hidden-sm hidden-md arrow" src="assets/img/arrow2.png">
+					<p>Too afraid to use the terminal but need that small program or tool? Cakebrew is for you too!</p>
+					<img class="hidden-xs hidden-sm arrow" src="assets/img/arrow2.png">
 				</div>
 			</div>
 		</div> <!--/ .container -->
@@ -87,9 +87,10 @@
 					</div>
 					<div class="panel-body">
 						Apparently Cakebrew is very unstable on OS X versions 10.7 and 10.8. These issues are being fixed as they appear, and a stable version should be up in a couple of days.
-						In the meanwhile, please feel free to post issues on the <a href="https://github.com/brunophilipe/Cakebrew/issues">Cakebrew github page</a>.
+						In the meanwhile, please feel free to post issues on the <a href="https://github.com/brunophilipe/Cakebrew/issues">Cakebrew github page</a>.<br>
+						If you are going to send a crash report, please send the whole file. It is much more complicated to symbolicate partial crash files.
 						<br>
-						Thanks for your patience.
+						Thanks for your patience!
 					</div>
 				</div>
 			</div>
@@ -100,7 +101,7 @@
 				<div class="col-lg-4">
 					<img src="assets/img/intro01.png" alt="">
 					<h3>Community Aware</h3>
-					<p>Cakebrew is open-source! Sweep through the code, fork, improve it as you wish!</p>
+					<p>Cakebrew is open-source! Sweep through the code, fork, and improve it as you wish!</p>
 				</div>
 				<div class="col-lg-4">
 					<img src="assets/img/intro02.png" alt="">
@@ -109,7 +110,7 @@
 				</div>
 				<div class="col-lg-4">
 					<img src="assets/img/intro03.png" alt="">
-					<h3>King of the Forest</h3>
+					<h3>King of the Jungle</h3>
 					<p>Cakebrew is compatible with all OS X versions back to OS X 10.7 Lion.</p>
 				</div>
 			</div>
