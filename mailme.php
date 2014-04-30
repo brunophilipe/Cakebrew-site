@@ -8,6 +8,7 @@ if ($status) {
 	$email_s_name		= $_POST['name'];
 	$email_s_email		= $_POST['email'];
 	$email_s_message	= $_POST['text'];
+	$email_s_ip			= $_SERVER['REMOTE_ADDR'];
 
 	$email_to			= "Bruno Philipe <brunophilipe@zoho.com>";
 	$email_subject		= "Message sent from Cakebrew contact form.";
@@ -27,6 +28,7 @@ if ($status) {
 	<ul>
 		<li>Name: $email_s_name</li>
 		<li>Email: $email_s_email</li>
+		<li>IP: $email_s_ip</li>
 	</ul>
 	<div id='message'>
 	<p>

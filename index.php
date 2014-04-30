@@ -37,7 +37,7 @@
 			<ul class="nav navbar-nav">
 			<li class="active"><a data-scroll href="#home" class="smothscroll">Home</a></li>
 			<li><a data-scroll href="#desc" class="smothscroll">Description</a></li>
-			<li><a data-scroll href="#showcase" class="smothScroll">Showcase</a></li>
+			<li><a data-scroll href="#download" class="smothScroll">Download</a></li>
 			<li><a data-scroll href="#contact" class="smothScroll">Contact</a></li>
 			</ul>
 		</div><!--/.nav-collapse -->
@@ -121,17 +121,27 @@
 	</div><!--/ #introwrap -->
 
 	<!-- FEATURES WRAP -->
+	<section id="download" name="download"></section>
 	<div class="features">
 		<div class="container">
+			<div class="col-lg-12 col-md-12">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<!-- Cakebrew Ad Line -->
+				<ins class="adsbygoogle" style="display:inline-block;width:728px;height:15px" data-ad-client="ca-pub-9931179619831247" data-ad-slot="9147486207"></ins>
+				<script>
+					(adsbygoogle = window.adsbygoogle || []).push({});
+				</script>
+			</div>
+			<hr>
 			<div class="col-lg-8 col-md-7">
 				<div class="row">
 					<h1 class="centered">Download</h1>
 					<br>
-					<p class="text-center"><big>Download Cakebrew today and discover the wonderful world of Homebrew and its Formulas!</big><br>Current Version: 1.0.2</p>
+					<p class="text-center"><big>Download Cakebrew today and discover the wonderful world of Homebrew and its Formulas!</big><br>Current Version: 1.0.3</p>
 					<br>
 					<p class="text-center">
-						<a href="http://www.cakebrew.com/files/cakebrew-1.0.2.dmg" class="btn btn-lg btn-primary"><span class="glyphicon glyphicon-cloud-download"></span>Download Now</a>
-						<a href="https://github.com/brunophilipe/Cakebrew/releases/tag/v1.0.2" class="btn btn-lg btn-warning"><span class="glyphicon glyphicon-folder-open"></span>Get Source <small>on GitHub</small></a>
+						<a href="http://www.cakebrew.com/files/cakebrew-1.0.3.dmg" class="btn btn-lg btn-primary"><span class="glyphicon glyphicon-cloud-download"></span>Download Now</a>
+						<a href="https://github.com/brunophilipe/Cakebrew/releases/tag/v1.0.3" class="btn btn-lg btn-warning"><span class="glyphicon glyphicon-folder-open"></span>Get Source <small>on GitHub</small></a>
 					</p>
 					<p><small>Note: Since Cakebrew is not distributed using an Apple Developer Account, OS X might refuse to launch it, saying it "Can't be opened because it is from an unidentified developer". To open Cakebrew, all you have to do is right-click the app, click Open and click Open again in the confirmation dialog. Thanks for your patience!</small></p>
 				</div>
