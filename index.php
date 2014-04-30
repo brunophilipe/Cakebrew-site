@@ -68,7 +68,7 @@
 				<div class="col-lg-2 col-md-3">
 					<br>
 					<h5>Practical &amp; Easy</h5>
-					<p>Too afraid to use the terminal but need that small program or tool? Cakebrew is for you too!</p>
+					<p>Afraid to use the terminal but need that small program or tool? Cakebrew is for you too!</p>
 					<img class="hidden-xs hidden-sm arrow" src="assets/img/arrow2.png">
 				</div>
 			</div>
@@ -87,7 +87,8 @@
 					</div>
 					<div class="panel-body">
 						Apparently Cakebrew is very unstable on OS X versions 10.7 and 10.8. These issues are being fixed as they appear, and a stable version should be up in a couple of days.
-						In the meanwhile, please feel free to post issues on the <a href="https://github.com/brunophilipe/Cakebrew/issues">Cakebrew github page</a>.<br>
+						In the meantime, please feel free to post issues on the <a href="https://github.com/brunophilipe/Cakebrew/issues">Cakebrew GitHub page</a>.
+						<br>
 						If you are going to send a crash report, please send the whole file. It is much more complicated to symbolicate partial crash files.
 						<br>
 						Thanks for your patience!
@@ -132,7 +133,7 @@
 						<a href="http://www.cakebrew.com/files/cakebrew-1.0.2.dmg" class="btn btn-lg btn-primary"><span class="glyphicon glyphicon-cloud-download"></span>Download Now</a>
 						<a href="https://github.com/brunophilipe/Cakebrew/releases/tag/v1.0.2" class="btn btn-lg btn-warning"><span class="glyphicon glyphicon-folder-open"></span>Get Source <small>on GitHub</small></a>
 					</p>
-					<p><small>Notice: Since Cakebrew is not distributed using an Apple Developer Account, OS X may not launch it, saying it "Can't be opened because it is from an unidentified developer". To open Cakebrew, all you have to do is right click the App, click open and click open again in the confirmation dialog. Thanks for your patience!</small></p>
+					<p><small>Note: Since Cakebrew is not distributed using an Apple Developer Account, OS X might refuse to launch it, saying it "Can't be opened because it is from an unidentified developer". To open Cakebrew, all you have to do is right-click the app, click Open and click Open again in the confirmation dialog. Thanks for your patience!</small></p>
 				</div>
 				<br>
 				<hr>
@@ -140,7 +141,7 @@
 					<h1 class="centered">Installation Notice</h1>
 					<br>
 					<p class="text-center">
-						<big>It is important to notice that Cakebrew doesn't install Homebrew for you. To install Homebrew, please visit their website.</big>
+						<big>It is important to note that Cakebrew doesn't install Homebrew for you. To install Homebrew, please visit their website.</big>
 						<br>
 						<small>Installing Homebrew though Cakebrew is currently in the To-Do List =)</small>
 					</p>
@@ -209,7 +210,7 @@
 				</p>
 				<p>
 					<b>Wanna become a maintainer?</b><br>
-					<small><a href="http://www.brunophilipe.com/">Fork Cakebrew on GitHub!</a></small>
+					<small><a href="https://github.com/brunophilipe/Cakebrew">Fork Cakebrew on GitHub!</a></small>
 				</p>
 				<hr>
 				<p><small><b>
