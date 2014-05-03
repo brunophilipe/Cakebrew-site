@@ -137,11 +137,11 @@
 				<div class="row">
 					<h1 class="centered">Download</h1>
 					<br>
-					<p class="text-center"><big>Download Cakebrew today and discover the wonderful world of Homebrew and its Formulas!</big><br>Current Version: 1.0.3</p>
+					<p class="text-center"><big>Download Cakebrew today and discover the wonderful world of Homebrew and its Formulas!</big><br>Current Version: 1.0.4</p>
 					<br>
 					<p class="text-center">
-						<a href="https://www.cakebrew.com/files/cakebrew-1.0.3.dmg" class="btn btn-lg btn-primary"><span class="glyphicon glyphicon-cloud-download"></span>Download Now</a>
-						<a href="https://github.com/brunophilipe/Cakebrew/releases/tag/v1.0.3" class="btn btn-lg btn-warning"><span class="glyphicon glyphicon-folder-open"></span>Get Source <small>on GitHub</small></a>
+						<a href="https://www.cakebrew.com/files/cakebrew-1.0.4.dmg" class="btn btn-lg btn-primary"><span class="glyphicon glyphicon-cloud-download"></span>Download Now</a>
+						<a href="https://github.com/brunophilipe/Cakebrew/releases/tag/v1.0.4" class="btn btn-lg btn-warning"><span class="glyphicon glyphicon-folder-open"></span>Get Source <small>on GitHub</small></a>
 					</p>
 					<p><small>Note: Since Cakebrew is not distributed using an Apple Developer Account, OS X might refuse to launch it, saying it "Can't be opened because it is from an unidentified developer". To open Cakebrew, all you have to do is right-click the app, click Open and click Open again in the confirmation dialog. Thanks for your patience!</small></p>
 				</div>
@@ -167,7 +167,7 @@
 					<ul id="todo">
 						<li><p><b>Homebrew installation.</b> Allow user to install Homebrew from within Cakebrew.</p></li>
 						<li><p><b>Support Homebrew localizations!</b> Currently only English is supported.<br>The data parser currently relies on the "==> Dependencies" and other similar strings.</p></li>
-						<li><p><b>Improve Doctor.</b> Currently only displays output after task is done. Would be better to do it live like in the terminal.</p></li>
+						<li><p><b>Cakebrew Localizations!</b> Cakebrew coming in dozens languages!</p></li>
 						<li><p>And much more!</p></li>
 					</ul>
 				</div>

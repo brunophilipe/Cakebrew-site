@@ -1,0 +1,16 @@
+
+.container.release
+{
+	margin-top: 15px;
+}
+
+.release ul
+{
+	padding-left: 15px;
+	margin-bottom: 0;
+}
+
+.release li
+{
+	list-style: square;
+}
