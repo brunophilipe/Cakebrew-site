@@ -8,7 +8,7 @@ if ($status) {
 	$email_s_name		= $_POST['name'];
 	$email_s_email		= $_POST['email'];
 	$email_s_message	= $_POST['text'];
-	$email_s_ip			= $_SERVER['REMOTE_ADDR'];
+	$email_s_ip		= $_SERVER['REMOTE_ADDR'];
 
 	$email_to			= "Bruno Philipe <brunophilipe@zoho.com>";
 	$email_subject		= "Message sent from Cakebrew contact form.";

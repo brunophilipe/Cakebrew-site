@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+Disallow: /appcast/
+Disallow: /assets/
+
+Sitemap: http://www.cakebrew.com/sitemap.xml
+

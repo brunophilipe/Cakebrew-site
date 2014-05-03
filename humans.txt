@@ -1,0 +1,22 @@
+Cakebrew was developed by Bruno Philipe <hello'at'brunophilipe'dot'com>
+It is a fork of Homebrew-GUI by vincentsaluzzo.
+
+---
+
+Many people has contributed to the development of Cakebrew through GitHub. Here I try to list most of them: (these are GitHub usernames)
+
+vincentsaluzzo
+tanB
+ed-george
+supreet321
+pborreli
+maximgavrilov
+abrausch
+cldsnchz (found crazy bugs in Xcode, thanks! - see issues #29 and #35 on the repository)
+alistairmcmillan
+gui-dos
+romankl
+gvt
+
+
+
