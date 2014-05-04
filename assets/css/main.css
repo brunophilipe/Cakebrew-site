@@ -70,6 +70,11 @@ hr {
 	padding: 0;
 }
 
+.contributors
+{
+	margin-top: -15px;
+}
+
 .arrow
 {
 	width: 143px;

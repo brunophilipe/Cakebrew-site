@@ -125,7 +125,7 @@
 	<div class="features">
 		<div class="container">
 			<div class="col-lg-12 col-md-12 text-center">
-				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 				<!-- Cakebrew Ad Line -->
 				<ins class="adsbygoogle" style="display:inline-block;width:728px;height:15px" data-ad-client="ca-pub-9931179619831247" data-ad-slot="9147486207"></ins>
 				<script>
@@ -193,10 +193,10 @@
 						<!-- Wrapper for slides -->
 						<div class="carousel-inner">
 							<div class="item active">
-								<img src="assets/img/item-01.png" alt="">
+								<img src="assets/img/item-01.png" alt="" style="max-width:1129px; max-height:525px;">>
 							</div>
 							<div class="item">
-								<img src="assets/img/item-02.png" alt="">
+								<img src="assets/img/item-02.png" alt="" style="max-width:1129px; max-height:525px;">
 							</div>
 						</div>
 					</div>
@@ -216,11 +216,23 @@
 				<h3>Cakebrew Maintainer</h3>
 				<p>
 					<b>Bruno Philipe</b><br>
-					<small>Brasilia, Brazil &mdash; <a href="http://www.brunophilipe.com/">Website</a> | <a href="mailto:hello@brunophilipe.com">Email</a></small>
+					<small>Brasilia, Brazil &mdash;
+						<a href="http://www.brunophilipe.com/">Website</a> |
+						<a href="mailto:hello@brunophilipe.com">Email</a> |
+						<a href="https://github.com/brunophilipe">GitHub</a>
+					</small>
 				</p>
 				<p>
-					<b>Wanna become a maintainer?</b><br>
-					<small><a href="https://github.com/brunophilipe/Cakebrew">Fork Cakebrew on GitHub!</a></small>
+					<b>Contributors</b>
+					<div class="contributors">
+						<?php
+						$contributors = array("vincentsaluzzo", "tanB", "ed-george", "supreet321", "pborreli", "maximgavrilov", "abrausch", "cldsnchz", "alistairmcmillan", "gui-dos", "romankl", "gvt");
+						foreach ($contributors as $user) {
+							echo "						<small class=\"col-lg-3 col-md-4 col-sm-4 col-xs-6\"><a href=\"https://github.com/$user\">$user</a></small>";
+						}
+						?>
+					</div>
+					<div class="clearfix"></div>
 				</p>
 				<hr>
 				<p><small><b>
@@ -280,6 +292,6 @@
 		callbackAfter: function ( toggle, anchor ) {} // Function to run after scrolling
 	});
 	</script>
-	<script type="text/javascript" src="assets/js/retina-1.1.0.min.js"></script>
+	<script type="text/javascript" src="assets/js/retina-1.1.2.min.js"></script>
 	</body>
 </html>
