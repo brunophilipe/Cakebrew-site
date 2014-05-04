@@ -277,7 +277,7 @@
 	<div id="c">
 		<div class="container">
 			<div class="col-lg-7"><p>Cakebrew &copy; Bruno Philipe 2014<br><small>Licensed under GNU GPL v3 License - All Rights Reserved</small><br><span id="retina">This website is 100% compatible with Retina Screen Macs :)</span></p></div>
-			<div class="col-lg-5 text-right"><p>Website Created by <a href="http://www.brunophilipe.com/">Bruno Philipe</a><br>Theme by <a href="http://www.blacktie.co">BLACKTIE.CO</a></p></div>
+			<div class="col-lg-5 text-right"><p>Website Created by <a href="http://www.brunophilipe.com/">Bruno Philipe</a><br>Theme by <a href="http://www.blacktie.co" target="_blank">BLACKTIE.CO</a><br>App icons by <a href="http://pixel-mixer.com" target="_blank">pixel-mixer</a></p></div>
 		</div>
 	</div>
 
