@@ -81,6 +81,7 @@
 	<div id="intro">
 		<div class="container">
 			<div class="row">
+				<?php /*
 				<div class="panel panel-warning">
 					<div class="panel-heading">
 						<h3 class="panel-title">Attention!</h3>
@@ -94,6 +95,7 @@
 						Thanks for your patience!
 					</div>
 				</div>
+				*/ ?>
 			</div>
 			<div class="row centered">
 				<h1>Designed To Be Awesome</h1>
@@ -292,6 +294,6 @@
 		callbackAfter: function ( toggle, anchor ) {} // Function to run after scrolling
 	});
 	</script>
-	<script type="text/javascript" src="assets/js/retina-1.1.2.min.js"></script>
+	<script type="text/javascript" src="assets/js/retina.min.js"></script>
 	</body>
 </html>
