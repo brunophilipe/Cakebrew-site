@@ -122,7 +122,7 @@
 				<h1>But.. What's Homebrew?</h1>
 				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 					<h3><a href="http://brew.sh">Homebrew</a> is a package manager for OS X.</h3>
-					<p>With Homebrew you can install thousands of command-line applications that would require manual compilation, which is not always very straight-forward.<br>Cakebrew brigs this to a whole new level of simplicity. Install command-line tools from an App. Could it be easier?</p>
+					<p>With Homebrew you can install thousands of command-line applications that would require manual compilation, which is not always very straight-forward.<br>Cakebrew brings this to a whole new level of simplicity. Install command-line tools from an App. Could it be easier?</p>
 				</div>
 			</div>
 			<br>
