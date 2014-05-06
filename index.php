@@ -142,7 +142,7 @@
 					(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
 			</div>
-			<div class="col-xs-12 visible-xs">
+			<div class="visible-xs" style="width:320px; height:50px; margin-left:-15px; overflow:hidden;">
 				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 				<!-- Cakebrew Mobile Banner -->
 				<ins class="adsbygoogle"
