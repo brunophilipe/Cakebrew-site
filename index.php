@@ -7,6 +7,14 @@
 	<meta name="author" content="Bruno Philipe - www.brunophilipe.com">
 	<link rel="shortcut icon" href="assets/img/favicon.png">
 
+	<link rel="apple-touch-icon-precomposed" href="/assets/img/apple-touch-icon-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="/assets/img/apple-touch-icon-152x152-precomposed.png">
+
 	<title>Cakebrew</title>
 
 	<!-- Bootstrap core CSS -->
