@@ -134,12 +134,23 @@
 	<section id="download" name="download"></section>
 	<div class="features">
 		<div class="container">
-			<div class="col-lg-12 col-md-12 text-center">
+			<div class="col-lg-12 col-md-12 col-sm-12 hidden-xs text-center">
 				<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 				<!-- Cakebrew Ad Line -->
 				<ins class="adsbygoogle" style="display:inline-block;width:728px;height:15px" data-ad-client="ca-pub-9931179619831247" data-ad-slot="9147486207"></ins>
 				<script>
 					(adsbygoogle = window.adsbygoogle || []).push({});
+				</script>
+			</div>
+			<div class="col-xs-12 visible-xs">
+				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+				<!-- Cakebrew Mobile Banner -->
+				<ins class="adsbygoogle"
+					 style="display:inline-block;width:320px;height:50px"
+					 data-ad-client="ca-pub-9931179619831247"
+					 data-ad-slot="2715516209"></ins>
+				<script>
+				(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
 			</div>
 			<hr>
@@ -304,13 +315,13 @@
 	</script>
 	<script type="text/javascript" src="assets/js/retina.min.js"></script>
 	<script>
-	  	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-	  	ga('create', 'UA-30675692-3', 'brunophilipe.com');
-	  	ga('send', 'pageview');
+		ga('create', 'UA-30675692-3', 'brunophilipe.com');
+		ga('send', 'pageview');
 	</script>
 	</body>
 </html>
