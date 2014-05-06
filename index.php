@@ -214,10 +214,10 @@
 						<!-- Wrapper for slides -->
 						<div class="carousel-inner">
 							<div class="item active">
-								<img src="assets/img/item-01.png" alt="" style="max-width:1129px; max-height:525px;">>
+								<img src="assets/img/item-01.png" alt="">
 							</div>
 							<div class="item">
-								<img src="assets/img/item-02.png" alt="" style="max-width:1129px; max-height:525px;">
+								<img src="assets/img/item-02.png" alt="">
 							</div>
 						</div>
 					</div>
