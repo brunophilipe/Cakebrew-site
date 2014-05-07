@@ -28,6 +28,10 @@ p {
 	text-align: center;
 }
 
+.carousel-inner img {
+  max-height: 525px;
+}
+
 /* Links */
 a {
 	color: #95ebcd;
@@ -233,4 +237,3 @@ ul#todo li
 #c p {
 	color: white
 }
-

@@ -217,15 +217,19 @@
 						<ol class="carousel-indicators">
 						<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
 						<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+						<li data-target="#carousel-example-generic" data-slide-to="2"></li>
 						</ol>
 
 						<!-- Wrapper for slides -->
 						<div class="carousel-inner">
 							<div class="item active">
-								<img src="assets/img/item-01.png" alt="">
+								<img src="assets/img/item-01.png" alt="Search for formulas." data-retina-resize="false">
 							</div>
 							<div class="item">
-								<img src="assets/img/item-02.png" alt="">
+								<img src="assets/img/item-02.png" alt="Run the Doctor!" data-retina-resize="false">
+							</div>
+							<div class="item">
+								<img src="assets/img/item-03.png" alt="Complete formula information." data-retina-resize="false">
 							</div>
 						</div>
 					</div>
@@ -321,7 +325,7 @@
 		callbackAfter: function ( toggle, anchor ) {} // Function to run after scrolling
 	});
 	</script>
-	<script type="text/javascript" src="assets/js/retina.min.js"></script>
+	<script type="text/javascript" src="assets/js/retina.js"></script>
 	<script>
 	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

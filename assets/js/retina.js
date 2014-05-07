@@ -1,8 +1,18 @@
+/*!
+ * Retina.js v1.3.0
+ *
+ * Copyright 2014 Imulus, LLC
+ * Released under the MIT license
+ *
+ * Retina.js is an open source script that makes it easy to serve
+ * high-resolution images to devices with retina displays.
+ */
+
 (function() {
     var root = (typeof exports === 'undefined' ? window : exports);
     var config = {
         // An option to choose a suffix for 2x images
-        retinaImageSuffix: '@2x',
+        retinaImageSuffix : '@2x',
 
         // Ensure Content-Type is an image before trying to load @2x image
         // https://github.com/imulus/retinajs/pull/45)
@@ -10,7 +20,7 @@
 
         // Resize high-resolution images to original image's pixel dimensions
         // https://github.com/imulus/retinajs/issues/8
-        force_original_dimensions: true
+        force_original_dimensions: false
     };
 
     function Retina() {}
@@ -34,15 +44,13 @@
             context = root;
         }
 
-        var existing_onload = context.onload || function() {};
+        var existing_onload = context.onload || function(){};
 
         context.onload = function() {
-            var images = document.getElementsByTagName('img'),
-                retinaImages = [],
-                i, image;
+            var images = document.getElementsByTagName('img'), retinaImages = [], i, image;
             for (i = 0; i < images.length; i += 1) {
                 image = images[i];
-                if ( !! !image.getAttributeNode('data-no-retina')) {
+                if (!!!image.getAttributeNode('data-no-retina')) {
                     retinaImages.push(new RetinaImage(image));
                 }
             }
@@ -50,7 +58,7 @@
         };
     };
 
-    Retina.isRetina = function() {
+    Retina.isRetina = function(){
         var mediaQuery = '(-webkit-min-device-pixel-ratio: 1.5), (min--moz-device-pixel-ratio: 1.5), (-o-min-device-pixel-ratio: 3/2), (min-resolution: 1.5dppx)';
 
         if (root.devicePixelRatio > 1) {
@@ -66,8 +74,7 @@
 
 
     var regexMatch = /\.\w+$/;
-
-    function suffixReplace(match) {
+    function suffixReplace (match) {
         return config.retinaImageSuffix + match;
     }
 
@@ -96,7 +103,7 @@
     RetinaImagePath.confirmed_paths = [];
 
     RetinaImagePath.prototype.is_external = function() {
-        return !!(this.path.match(/^https?\:/i) && !this.path.match('//' + document.domain));
+        return !!(this.path.match(/^https?\:/i) && !this.path.match('//' + document.domain) );
     };
 
     RetinaImagePath.prototype.check_2x_variant = function(callback) {
@@ -153,15 +160,17 @@
         }
 
         var that = this;
-
         function load() {
-            if (!that.el.complete) {
+            if (! that.el.complete) {
                 setTimeout(load, 5);
             } else {
                 if (config.force_original_dimensions) {
-                    if (that.el.offsetWidth != 0 && that.el.offsetHeight != 0) {
-                        that.el.setAttribute('width', that.el.naturalWidth);
-                        that.el.setAttribute('height', that.el.naturalHeight);
+                    if(that.el.offsetWidth === 0 || that.el.offsetHeight === 0) {
+                      that.el.setAttribute('width', '100%');
+                      that.el.setAttribute('height', '100%');
+                    } else {
+                      that.el.setAttribute('width', that.el.offsetWidth);
+                      that.el.setAttribute('height', that.el.offsetHeight);
                     }
                 }
 
