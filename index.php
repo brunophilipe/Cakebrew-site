@@ -110,17 +110,17 @@
 				<br>
 				<br>
 				<div class="col-lg-4">
-					<img src="assets/img/intro01.png" alt="">
+					<img src="assets/img/intro01.png" alt="" style="max-width: 141px; max-height: 128px;">
 					<h3>Community Aware</h3>
 					<p>Cakebrew is open-source! Sweep through the code, fork, and improve it as you wish!</p>
 				</div>
 				<div class="col-lg-4">
-					<img src="assets/img/intro02.png" alt="">
+					<img src="assets/img/intro02.png" alt="" style="max-width: 128px; max-height: 128px;">
 					<h3>Easy to Use</h3>
 					<p>Cakebrew was designed with the user in mind. No complicated interfaces!</p>
 				</div>
 				<div class="col-lg-4">
-					<img src="assets/img/intro03.png" alt="">
+					<img src="assets/img/intro03.png" alt="" style="max-width: 128px; max-height: 128px;">
 					<h3>King of the Jungle</h3>
 					<p>Cakebrew is compatible with all OS X versions back to OS X 10.7 Lion.</p>
 				</div>
