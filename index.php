@@ -212,12 +212,12 @@
 				<h1 class="centered">More Screenshots</h1>
 				<br>
 				<div class="col-lg-12">
-					<div id="carousel-example-generic" class="carousel slide">
+					<div id="carousel-screenshots" class="carousel slide">
 						<!-- Indicators -->
 						<ol class="carousel-indicators">
-						<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-						<li data-target="#carousel-example-generic" data-slide-to="1"></li>
-						<li data-target="#carousel-example-generic" data-slide-to="2"></li>
+						<li data-target="#carousel-screenshots" data-slide-to="0" class="active"></li>
+						<li data-target="#carousel-screenshots" data-slide-to="1"></li>
+						<li data-target="#carousel-screenshots" data-slide-to="2"></li>
 						</ol>
 
 						<!-- Wrapper for slides -->
@@ -311,6 +311,7 @@
 	<script src="assets/js/jquery.min.js"></script>
 	<script src="assets/js/smooth-scroll.js"></script>
 	<script src="assets/js/bootstrap.js"></script>
+	<script src="assets/js/jquery.mobile.min.js"></script>
 	<script>
 	$('.carousel').carousel({
 		interval: 3500
@@ -335,6 +336,16 @@
 	  ga('create', 'UA-30675692-3', 'cakebrew.com');
 	  ga('send', 'pageview');
 
+	</script>
+	<script>
+	  $(document).ready(function() {
+	  		 $("#carousel-screenshots").swiperight(function() {
+	    		  $(this).carousel('prev');
+		    		});
+			   $("#carousel-screenshots").swipeleft(function() {
+			      $(this).carousel('next');
+		   });
+		});
 	</script>
 	</body>
 </html>
