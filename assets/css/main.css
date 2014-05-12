@@ -93,6 +93,7 @@ hr {
 #main-screenshot
 {
 	margin: auto;
+    max-height: 525px;
 }
 
 .carousel-inner img

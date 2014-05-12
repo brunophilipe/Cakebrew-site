@@ -339,11 +339,11 @@
 	</script>
 	<script>
 	  $(document).ready(function() {
-	  		 $("#carousel-screenshots").swiperight(function() {
-	    		  $(this).carousel('prev');
-		    		});
-			   $("#carousel-screenshots").swipeleft(function() {
-			      $(this).carousel('next');
+  		 $("#carousel-screenshots").swiperight(function() {
+    		  $(this).carousel('prev');
+	    	});
+		   $("#carousel-screenshots").swipeleft(function() {
+		      $(this).carousel('next');
 		   });
 		});
 	</script>
