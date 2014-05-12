@@ -46,6 +46,7 @@
 			<li class="active"><a data-scroll href="#home" class="smothscroll">Home</a></li>
 			<li><a data-scroll href="#desc" class="smothscroll">Description</a></li>
 			<li><a data-scroll href="#download" class="smothScroll">Download</a></li>
+			<li><a data-scroll href="#screenshots" class="smothScroll">Screenshots</a></li>
 			<li><a data-scroll href="#contact" class="smothScroll">Contact</a></li>
 			</ul>
 		</div><!--/.nav-collapse -->
@@ -205,7 +206,7 @@
 		</div><!--/ .container -->
 	</div><!--/ #features -->
 
-	<section id="showcase" name="showcase"></section>
+	<section id="screenshots" name="screenshots"></section>
 	<div id="showcase">
 		<div class="container">
 			<div class="row">
