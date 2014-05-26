@@ -131,6 +131,7 @@ ul#todo li
 #retina
 {
 	font-size: 9px;
+    line-height: 12px;
 }
 
 .features .btn-lg
