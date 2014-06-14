@@ -90,9 +90,9 @@
 	<div id="intro">
 		<div class="container">
 			<div class="row centered">
-				<iframe src="http://ghbtns.com/github-btn.html?user=brunophilipe&amp;repo=Cakebrew&amp;type=follow" width="162" height="20"></iframe>
-				<iframe src="http://ghbtns.com/github-btn.html?user=brunophilipe&amp;repo=Cakebrew&amp;type=fork&amp;count=true" width="100" height="20"></iframe>
-				<iframe src="http://ghbtns.com/github-btn.html?user=brunophilipe&amp;repo=Cakebrew&amp;type=watch&amp;count=true" width="100" height="20"></iframe>
+				<iframe src="https://ghbtns.com/github-btn.html?user=brunophilipe&amp;repo=Cakebrew&amp;type=follow" width="162" height="20"></iframe>
+				<iframe src="https://ghbtns.com/github-btn.html?user=brunophilipe&amp;repo=Cakebrew&amp;type=fork&amp;count=true" width="100" height="20"></iframe>
+				<iframe src="https://ghbtns.com/github-btn.html?user=brunophilipe&amp;repo=Cakebrew&amp;type=watch&amp;count=true" width="100" height="20"></iframe>
 				<br>
 				<br>
 				<h1>Designed To Be Awesome</h1>
