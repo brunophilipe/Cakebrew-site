@@ -248,17 +248,18 @@
 				</p>
 				<p>
 					<b>Contributors</b>
-					<div class="contributors">
-						<?php
-						$contributors = array("tanB", "ed-george", "abrausch", "nudelfabrik", "supreet321", "pborreli", "maximgavrilov", "cldsnchz", "hexxellor", "xhruso00", "smokyonion", "vincentsaluzzo", "alistairmcmillan", "gui-dos", "romankl", "gvt");
-						sort($contributors);
-						foreach ($contributors as $user) {
-							echo "						<small class=\"col-lg-3 col-md-4 col-sm-4 col-xs-6\"><a href=\"https://github.com/$user\">$user</a></small>";
-						}
-						?>
-					</div>
-					<div class="clearfix"></div>
 				</p>
+				<div class="contributors">
+<?php
+					$contributors = array("tanB", "ed-george", "abrausch", "nudelfabrik", "supreet321", "pborreli", "maximgavrilov", "cldsnchz", "hexxellor", "xhruso00", "smokyonion", "vincentsaluzzo", "alistairmcmillan", "gui-dos", "romankl", "gvt");
+					sort($contributors);
+					foreach ($contributors as $user) {
+						echo "					<small class=\"col-lg-3 col-md-4 col-sm-4 col-xs-6\"><a href=\"https://github.com/$user\">$user</a></small>\n";
+					}
+					?>
+				</div>
+				<div class="clearfix"></div>
+
 				<hr>
 				<p><small><b>
 					Cakebrew supports all versions of OS X back to version 10.7.
@@ -291,7 +292,14 @@
 	</div>
 	<div id="c">
 		<div class="container">
-			<div class="col-lg-7"><p>Cakebrew &copy; Bruno Philipe 2014<br><small>Licensed under GNU GPL v3 License - All Rights Reserved<br>DOGE: DCfsmLprBMVVq66KPiA4psXh6DdfjtigkG</small><br><p id="retina">This website is 100% compatible with Retina Screen Macs :)</p></p></div>
+			<div class="col-lg-7">
+				<p>Cakebrew &copy; Bruno Philipe 2014<br>
+					<small>Licensed under GNU GPL v3 License - All Rights Reserved<br>
+						DOGE: DCfsmLprBMVVq66KPiA4psXh6DdfjtigkG
+					</small><br>
+				</p>
+				<p id="retina">This website is 100% compatible with Retina Screen Macs :)</p>
+			</div>
 			<div class="col-lg-5 text-right"><p>Website Created by <a href="http://www.brunophilipe.com/">Bruno Philipe</a><br>Theme by <a href="http://www.blacktie.co" target="_blank">BLACKTIE.CO</a><br>App icons by pixel-mixer</p></div>
 		</div>
 	</div>
