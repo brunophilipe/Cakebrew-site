@@ -257,7 +257,9 @@
 					<b>Bruno Philipe</b><br>
 					<small>Brasilia, Brazil &mdash;
 						<a href="http://www.brunophilipe.com/">Website</a> |
-						<a href="mailto:hello@brunophilipe.com">Email</a> |
+						<script type="text/javascript">
+							document.write("<a href=\"mailto:" + "Bruno Philipe <hell" + "o@" + "brunophilipe" + ".com>\">Em" + "ail</a> |");
+						</script>
 						<a href="https://github.com/brunophilipe">GitHub</a>
 					</small>
 				</p>
