@@ -278,7 +278,7 @@
 				<p><small><b>
 					Cakebrew supports all versions of OS X back to version 10.7.
 					<br>
-					Cakebrew is written in Objective-C and compiled in Xcode 5.1.1 on OS 10.10.
+					Cakebrew is written in Objective-C and compiled in Xcode 5.1.1 on OS 10.9.
 				</b></small></p>
 			</div>
 
