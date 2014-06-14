@@ -11,11 +11,21 @@ body {
 	-webkit-overflow-scrolling: touch;
 }
 
+iframe {
+	border: 0;
+	overflow: hidden;
+}
+
 /* Titles */
 h1, h2, h3, h4, h5, h6 {
 	font-family: "Raleway";
 	font-weight: 300;
 	color: #333;
+}
+
+span.big
+{
+	font-size: 24px;
 }
 
 /* Paragraph & Typographic */

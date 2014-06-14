@@ -54,7 +54,7 @@
 	</div>
 
 
-	<section id="home" name="home"></section>
+	<section id="home"></section>
 	<div id="headerwrap">
 		<div class="container">
 			<div class="row centered">
@@ -69,7 +69,7 @@
 				<div class="col-lg-2 col-md-3">
 					<h5>Useful</h5>
 					<p>Do most of the usual tasks you need of Homebrew. Including updating and finding problems with the Doctor!</p>
-					<img class="hidden-xs hidden-sm arrow" src="assets/img/arrow1.png">
+					<img class="hidden-xs hidden-sm arrow" src="assets/img/arrow1.png" alt="Arrow pointing right">
 				</div>
 				<div class="col-lg-8 col-md-6">
 					<img class="img-responsive" id="main-screenshot" src="assets/img/app-bg.png" alt="">
@@ -78,7 +78,7 @@
 					<br>
 					<h5>Practical &amp; Easy</h5>
 					<p>Afraid to use the terminal but need that small program or tool? Cakebrew is for you too!</p>
-					<img class="hidden-xs hidden-sm arrow" src="assets/img/arrow2.png">
+					<img class="hidden-xs hidden-sm arrow" src="assets/img/arrow2.png" alt="Arrow pointing left">
 				</div>
 			</div>
 		</div> <!--/ .container -->
@@ -86,30 +86,13 @@
 
 
 	<!-- INTRO WRAP -->
-	<section id="desc" name="desc"></section>
+	<section id="desc"></section>
 	<div id="intro">
 		<div class="container">
-			<div class="row">
-				<?php /*
-				<div class="panel panel-warning">
-					<div class="panel-heading">
-						<h3 class="panel-title">Attention!</h3>
-					</div>
-					<div class="panel-body">
-						Apparently Cakebrew is very unstable on OS X versions 10.7 and 10.8. These issues are being fixed as they appear, and a stable version should be up in a couple of days.
-						In the meantime, please feel free to post issues on the <a href="https://github.com/brunophilipe/Cakebrew/issues">Cakebrew GitHub page</a>.
-						<br>
-						If you are going to send a crash report, please send the whole file. It is much more complicated to symbolicate partial crash files.
-						<br>
-						Thanks for your patience!
-					</div>
-				</div>
-				*/ ?>
-			</div>
 			<div class="row centered">
-				<iframe src="http://ghbtns.com/github-btn.html?user=brunophilipe&repo=Cakebrew&type=follow" allowtransparency="true" frameborder="0" scrolling="0" width="162" height="20"></iframe>
-				<iframe src="http://ghbtns.com/github-btn.html?user=brunophilipe&repo=Cakebrew&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="100" height="20"></iframe>
-				<iframe src="http://ghbtns.com/github-btn.html?user=brunophilipe&repo=Cakebrew&type=watch&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="100" height="20"></iframe>
+				<iframe src="http://ghbtns.com/github-btn.html?user=brunophilipe&amp;repo=Cakebrew&amp;type=follow" width="162" height="20"></iframe>
+				<iframe src="http://ghbtns.com/github-btn.html?user=brunophilipe&amp;repo=Cakebrew&amp;type=fork&amp;count=true" width="100" height="20"></iframe>
+				<iframe src="http://ghbtns.com/github-btn.html?user=brunophilipe&amp;repo=Cakebrew&amp;type=watch&amp;count=true" width="100" height="20"></iframe>
 				<br>
 				<br>
 				<h1>Designed To Be Awesome</h1>
@@ -145,7 +128,7 @@
 	</div><!--/ #introwrap -->
 
 	<!-- FEATURES WRAP -->
-	<section id="download" name="download"></section>
+	<section id="download"></section>
 	<div class="features">
 		<div class="container">
 			<div class="col-lg-12 col-md-12 col-sm-12 hidden-xs text-center">
@@ -172,7 +155,7 @@
 				<div class="row">
 					<h1 class="centered">Download</h1>
 					<br>
-					<p class="text-center"><big>Download Cakebrew today and discover the wonderful world of Homebrew and its Formulas!</big><br>Current Version: 1.0.7</p>
+					<p class="text-center"><span class="big">Download Cakebrew today and discover the wonderful world of Homebrew and its Formulas!</span><br>Current Version: 1.0.7</p>
 					<br>
 					<p class="text-center">
 						<a href="https://www.cakebrew.com/files/cakebrew-1.0.7.dmg" class="btn btn-lg btn-primary"><span class="glyphicon glyphicon-cloud-download"></span>Download Now</a>
@@ -186,7 +169,7 @@
 					<h1 class="centered">Installation Notice</h1>
 					<br>
 					<p class="text-center">
-						<big>It is important to note that Cakebrew doesn't install Homebrew for you. To install Homebrew, please visit their website.</big>
+						<span class="big">It is important to note that Cakebrew doesn't install Homebrew for you. To install Homebrew, please visit their website.</span>
 						<br>
 						<small>Installing Homebrew though Cakebrew is currently in the To-Do List =)</small>
 					</p>
@@ -211,7 +194,7 @@
 		</div><!--/ .container -->
 	</div><!--/ #features -->
 
-	<section id="screenshots" name="screenshots"></section>
+	<section id="screenshots"></section>
 	<div id="showcase">
 		<div class="container">
 			<div class="row">
@@ -248,7 +231,7 @@
 	</div>
 
 
-	<section id="contact" name="contact"></section>
+	<section id="contact"></section>
 	<div id="footerwrap">
 		<div class="container">
 			<div class="col-lg-8 col-md-7">
@@ -287,10 +270,10 @@
 			<div class="col-lg-4 col-md-5">
 				<h3>Drop Us A Line</h3>
 				<br>
-				<form role="form" action="/mailme.php" method="post" enctype="plain">
+				<form role="form" action="/mailme.php" method="post" enctype="text/plain">
 					<div class="form-group">
 						<label for="name1">Your Name</label>
-						<input type="name" name="name" class="form-control" id="name1" placeholder="Your Name" required>
+						<input type="text" name="name" class="form-control" id="name1" placeholder="Your Name" required>
 					</div>
 					<div class="form-group">
 						<label for="email1">Your Email</label>
