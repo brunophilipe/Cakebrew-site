@@ -306,7 +306,7 @@
 	</div>
 	<div id="c">
 		<div class="container">
-			<div class="col-lg-7"><p>Cakebrew &copy; Bruno Philipe 2014<br><small>Licensed under GNU GPL v3 License - All Rights Reserved</small><br><p id="retina">This website is 100% compatible with Retina Screen Macs :)<br>DOGE: DCfsmLprBMVVq66KPiA4psXh6DdfjtigkG</p></p></div>
+			<div class="col-lg-7"><p>Cakebrew &copy; Bruno Philipe 2014<br><small>Licensed under GNU GPL v3 License - All Rights Reserved<br>DOGE: DCfsmLprBMVVq66KPiA4psXh6DdfjtigkG</small><br><p id="retina">This website is 100% compatible with Retina Screen Macs :)</p></p></div>
 			<div class="col-lg-5 text-right"><p>Website Created by <a href="http://www.brunophilipe.com/">Bruno Philipe</a><br>Theme by <a href="http://www.blacktie.co" target="_blank">BLACKTIE.CO</a><br>App icons by pixel-mixer</p></div>
 		</div>
 	</div>
