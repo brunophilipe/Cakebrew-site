@@ -40,7 +40,7 @@
 		</div>
 		<div class="navbar-collapse collapse">
 			<ul class="nav navbar-nav">
-				<li><a href="https://www.cakebrew.com"Home</a></li>
+				<li><a href="https://www.cakebrew.com">Home</a></li>
 			</ul>
 		</div><!--/.nav-collapse -->
 		</div>
