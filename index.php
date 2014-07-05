@@ -230,6 +230,65 @@
 		</div><!-- /container -->
 	</div>
 
+	<!-- FEATURES WRAP -->
+	<div class="features">
+		<div class="container">
+			<div class="col-lg-12">
+				<div class="row">
+					<h1></h1>
+					<p class="text-center"><span class="big">Cakebrew has been featued on many different tech blogs and websites in different languages. Take a look!</p>
+					<br>
+					<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+						<p>In English:</p>
+						<ul>
+							<li><a href="http://ios.devtools.me/bydate.php" target="_blank">iOS.DevTools.Me</a></li>
+							<li><a href="http://brettterpstra.com/2014/04/29/web-excursions-for-april-29-2014/" target="_blank">brettterpstra.com</a></li>
+							<li><a href="http://onethingwell.org/post/84527275991/cakebrew" target="_blank">onethingwell.org</a></li>
+							<li><a href="http://npmawesome.com/posts/2014-05-06-links/" target="_blank">npmawesome.com</a></li>
+							<li><a href="http://afreshcup.com/home/2014/5/1/double-shot-1346.html" target="_blank">afreshcup.com</a></li>
+						</ul>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+						<p>In German:</p>
+						<ul>
+							<li><a href="http://t3n.de/news/cakebrew-mac-app-fuer-homebrew-542416/" target="_blank">t3n.de</a></li>
+							<li><a href="http://www.ifun.de/cakebrew-ein-mac-oberflaeche-fuer-das-kommandozeilen-tool-brew-59199/" target="_blank">ifun.de</a></li>
+							<li><a href="http://www.aptgetupdate.de/2014/04/30/cakebrew-·-a-homebrew-gui/" target="_blank">aptgetupdate.de</a></li>
+							<li><a href="http://nerdkunde.de/nk027.html" target="_blank">nerdkunde.de</a></li>
+						</ul>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+						<p>In Spanish:</p>
+						<ul>
+							<li><a href="http://bitelia.com/2014/05/cakebrew-interfaz-grafica-homebrew" target="_blank">Bitelia.com</a></li>
+						</ul>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+						<p>In Japanese:</p>
+						<ul>
+							<li><a href="http://blog.jicoman.info/2014/05/cakebrew/" target="_blank">blog.jicoman.info</a></li>
+							<li><a href="http://qiita.com/aRyoKajiwara/items/e654481f714da83bf76e" target="_blank">Qiita.com</a></li>
+							<li><a href="http://blog.mah-lab.com/2014/04/30/homebrew-cakebrew/" target="_blank">mah-lab.com</a></li>
+							<li><a href="http://applech2.com/archives/38560275.html" target="_blank">applech2.com</a></li>
+						</ul>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+						<p>In French:</p>
+						<ul>
+							<li><a href="http://korben.info/cakebrew-interface-graphique-homebrew-osx.html" target="_blank">Korben.info</a></li>
+							<li><a href="http://www.macg.co/logiciels/2014/05/cakebrew-une-interface-pour-utiliser-homebrew-sans-terminal-81747" target="_blank">macg.co</a></li>
+						</ul>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+						<p>In Swedish:</p>
+						<ul>
+							<li><a href="http://www.macpro.se/2014/04/grafiskt-granssnitt-for-homebrew/" target="_blank">macpro.se</a></li>
+						</ul>
+					</div>
+				</div>
+			<br>
+		</div><!--/ .container -->
+	</div><!--/ #features -->
 
 	<section id="contact"></section>
 	<div id="footerwrap">
