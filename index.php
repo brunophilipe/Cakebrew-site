@@ -90,9 +90,9 @@
 	<div id="intro">
 		<div class="container">
 			<div class="row centered">
-				<iframe src="https://ghbtns.com/github-btn.html?user=brunophilipe&amp;repo=Cakebrew&amp;type=follow" width="162" height="20"></iframe>
-				<iframe src="https://ghbtns.com/github-btn.html?user=brunophilipe&amp;repo=Cakebrew&amp;type=fork&amp;count=true" width="100" height="20"></iframe>
-				<iframe src="https://ghbtns.com/github-btn.html?user=brunophilipe&amp;repo=Cakebrew&amp;type=watch&amp;count=true" width="100" height="20"></iframe>
+				<iframe src="github-btn.html?user=brunophilipe&amp;repo=Cakebrew&amp;type=follow" width="162" height="20"></iframe>
+				<iframe src="github-btn.html?user=brunophilipe&amp;repo=Cakebrew&amp;type=fork&amp;count=true" width="100" height="20"></iframe>
+				<iframe src="github-btn.html?user=brunophilipe&amp;repo=Cakebrew&amp;type=watch&amp;count=true" width="100" height="20"></iframe>
 				<br>
 				<br>
 				<h1>Designed To Be Awesome</h1>
@@ -359,7 +359,7 @@
 				</p>
 				<p id="retina">This website is 100% compatible with Retina Screen Macs :)</p>
 			</div>
-			<div class="col-lg-5 text-right"><p>Website Created by <a href="http://www.brunophilipe.com/">Bruno Philipe</a><br>Theme by <a href="http://www.blacktie.co" target="_blank">BLACKTIE.CO</a><br>App icons by pixel-mixer</p></div>
+			<div class="col-lg-5 text-right"><p>Website Created by <a href="http://www.brunophilipe.com/">Bruno Philipe</a><br>Theme by <a href="http://www.blacktie.co" target="_blank">BLACKTIE.CO</a><br>Icons from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a></p></div>
 		</div>
 	</div>
 
