@@ -258,6 +258,12 @@
 						</ul>
 					</div>
 					<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
+						<p>In Russian:</p>
+						<ul>
+							<li><a href="http://habrahabr.ru/post/228757/" target="_blank">habrahabr.ru</a></li>
+						</ul>
+					</div>
+					<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
 						<p>In Spanish:</p>
 						<ul>
 							<li><a href="http://bitelia.com/2014/05/cakebrew-interfaz-grafica-homebrew" target="_blank">Bitelia.com</a></li>
