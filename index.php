@@ -185,7 +185,6 @@
 					<ul id="todo">
 						<li><p><b>Homebrew installation.</b> Allow user to install Homebrew from within Cakebrew.</p></li>
 						<li><p><b>Support Homebrew localizations!</b> Currently only English is supported.<br>The data parser currently relies on the "==> Dependencies" and other similar strings.</p></li>
-						<li><p><b>Cakebrew Localizations!</b> Cakebrew coming in dozens languages!</p></li>
 						<li><p>And much more!</p></li>
 					</ul>
 				</div>
