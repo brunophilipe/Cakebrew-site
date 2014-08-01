@@ -155,7 +155,7 @@
 				<div class="row">
 					<h1 class="centered">Download</h1>
 					<br>
-					<p class="text-center"><span class="big">Download Cakebrew today and discover the wonderful world of Homebrew and its Formulas!</span><br>Current Version: 1.0.9</p>
+					<p class="text-center"><span class="big">Download Cakebrew today and discover the wonderful world of Homebrew and its Formulas!</span><br>Current Version: 1.0.9 (August 1st, 2014)</p>
 					<br>
 					<p class="text-center">
 						<a href="https://www.cakebrew.com/files/cakebrew-1.0.9.dmg" class="btn btn-lg btn-primary"><span class="glyphicon glyphicon-cloud-download"></span>Download Now</a>
