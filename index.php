@@ -155,11 +155,11 @@
 				<div class="row">
 					<h1 class="centered">Download</h1>
 					<br>
-					<p class="text-center"><span class="big">Download Cakebrew today and discover the wonderful world of Homebrew and its Formulas!</span><br>Current Version: 1.0.8</p>
+					<p class="text-center"><span class="big">Download Cakebrew today and discover the wonderful world of Homebrew and its Formulas!</span><br>Current Version: 1.0.9</p>
 					<br>
 					<p class="text-center">
-						<a href="https://www.cakebrew.com/files/cakebrew-1.0.8.dmg" class="btn btn-lg btn-primary"><span class="glyphicon glyphicon-cloud-download"></span>Download Now</a>
-						<a href="https://github.com/brunophilipe/Cakebrew/releases/tag/v1.0.8" class="btn btn-lg btn-warning"><span class="glyphicon glyphicon-folder-open"></span>Get Source <small>on GitHub</small></a>
+						<a href="https://www.cakebrew.com/files/cakebrew-1.0.9.dmg" class="btn btn-lg btn-primary"><span class="glyphicon glyphicon-cloud-download"></span>Download Now</a>
+						<a href="https://github.com/brunophilipe/Cakebrew/releases/tag/v1.0.9" class="btn btn-lg btn-warning"><span class="glyphicon glyphicon-folder-open"></span>Get Source <small>on GitHub</small></a>
 					</p>
 					<p><small>Note: Since Cakebrew is not distributed using an Apple Developer Account, OS X might refuse to launch it, saying it "Can't be opened because it is from an unidentified developer". To open Cakebrew, all you have to do is right-click the app, click Open and click Open again in the confirmation dialog. Thanks for your patience!</small></p>
 				</div>
