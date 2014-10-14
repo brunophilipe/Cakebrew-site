@@ -235,7 +235,7 @@
 			<div class="col-lg-12">
 				<div class="row">
 					<h1></h1>
-					<p class="text-center"><span class="big">Cakebrew has been featued on many different tech blogs and websites in different languages. Take a look!</span></p>
+					<p class="text-center"><span class="big">Cakebrew has been featured on many different tech blogs and websites in different languages. Take a look!</span></p>
 					<br>
 					<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
 						<p>In English:</p>
