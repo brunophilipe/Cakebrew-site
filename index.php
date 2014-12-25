@@ -315,7 +315,7 @@
 				</p>
 				<div class="contributors">
 <?php
-					$contributors = array("tanB", "ed-george", "abrausch", "nudelfabrik", "supreet321", "pborreli", "maximgavrilov", "cldsnchz", "hexxellor", "xhruso00", "smokyonion", "vincentsaluzzo", "alistairmcmillan", "gui-dos", "romankl", "gvt");
+					$contributors = array("tanB", "ed-george", "abrausch", "nudelfabrik", "supreet321", "pborreli", "maximgavrilov", "cldsnchz", "hexxellor", "xhruso00", "smokyonion", "vincentsaluzzo", "alistairmcmillan", "gui-dos", "romankl", "gvt", "podgib", "matthewgadd");
 					sort($contributors);
 					foreach ($contributors as $user) {
 						echo "					<small class=\"col-lg-3 col-md-4 col-sm-4 col-xs-6\"><a href=\"https://github.com/$user\">$user</a></small>\n";
