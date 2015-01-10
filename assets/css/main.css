@@ -39,7 +39,7 @@ p {
 }
 
 .carousel-inner img {
-  max-height: 525px;
+  max-height: 523px;
 }
 
 /* Links */
@@ -103,12 +103,12 @@ hr {
 #main-screenshot
 {
 	margin: auto;
-    max-height: 525px;
+    max-height: 522px;
 }
 
 .carousel-inner img
 {
-	/*height: 525px !important;*/
+	/*height: 523px !important;*/
 	margin: auto;
 }
 
