@@ -2,13 +2,18 @@
 
 $crdate = date("r");
 
-$status = (($_POST['name'] != "") && ($_POST['email'] != "") && ($_POST['text'] != ""));
+if (strcmp($_POST['lastname'], "") != 0) {
+	echo "<h1>=)</h1>";
+	die;
+}
+
+$status = (strcmp($_POST['name'], "") != 0) && (strcmp($_POST['email'], "") != 0) && (strcmp($_POST['text'], "") != 0);
 
 if ($status) {
 	$email_s_name		= $_POST['name'];
 	$email_s_email		= $_POST['email'];
 	$email_s_message	= $_POST['text'];
-	$email_s_ip		= $_SERVER['REMOTE_ADDR'];
+	$email_s_ip			= $_SERVER['REMOTE_ADDR'];
 
 	$email_to			= "Bruno Philipe <brunophilipe@zoho.com>";
 	$email_subject		= "Message sent from Cakebrew contact form.";
@@ -53,7 +58,6 @@ if ($status) {
 
 	$status = mail($email_to,$email_subject,$email_message,$email_from);
 }
-
 ?>
 
 <!DOCTYPE html>
@@ -106,7 +110,7 @@ if ($status) {
 				<?php if ($status): ?>
 				<p class="text-center"><big>Thanks for the message. If you are waiting for a reply, please be patient.</big></p>
 				<?php else: ?>
-				<p class="text-center"><big>There was an error sending the email. Please be sure you filled ALL the form fields. To try again click the Back button in your browser.</big></p>
+				<p class="text-center"><big>There was an error sending the email. Please be sure you filled ALL the form fields. To try again click the Back button in your browser.<?php echo $status; ?></big></p>
 				<?php endif; ?>
 				<br>
 				<p class="text-center">

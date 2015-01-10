@@ -313,15 +313,15 @@
 				<p>
 					<b>Contributors</b>
 				</p>
-				<div class="contributors">
+				<ul class="contributors">
 <?php
-					$contributors = array("tanB", "ed-george", "abrausch", "nudelfabrik", "supreet321", "pborreli", "maximgavrilov", "cldsnchz", "hexxellor", "xhruso00", "smokyonion", "vincentsaluzzo", "alistairmcmillan", "gui-dos", "romankl", "gvt", "podgib", "matthewgadd");
+					$contributors = array("tanB", "ed-george", "abrausch", "nudelfabrik", "supreet321", "pborreli", "maximgavrilov", "cldsnchz", "hexxellor", "xhruso00", "smokyonion", "vincentsaluzzo", "alistairmcmillan", "gui-dos", "romankl", "gvt", "podgib", "matthewgadd", "duffpod");
 					sort($contributors);
 					foreach ($contributors as $user) {
-						echo "					<small class=\"col-lg-3 col-md-4 col-sm-4 col-xs-6\"><a href=\"https://github.com/$user\">$user</a></small>\n";
+						echo "					<li><a href=\"https://github.com/$user\">$user</a></li>\n";
 					}
 					?>
-				</div>
+				</ul>
 				<div class="clearfix"></div>
 
 				<hr>
@@ -335,7 +335,7 @@
 			<div class="col-lg-4 col-md-5">
 				<h3>Drop Us A Line</h3>
 				<br>
-				<form role="form" action="/mailme.php" method="post" enctype="text/plain">
+				<form role="form" action="mailme.php" method="post">
 					<div class="form-group">
 						<label for="name1">Your Name</label>
 						<input type="text" name="name" class="form-control" id="name1" placeholder="Your Name" required>
@@ -359,7 +359,7 @@
 			<div class="col-lg-7">
 				<p>Cakebrew &copy; Bruno Philipe 2014<br>
 					<small>Licensed under GNU GPL v3 License - All Rights Reserved<br>
-						DOGE: DCfsmLprBMVVq66KPiA4psXh6DdfjtigkG
+						<font class="mono">BTC: 16EPUhcowtvFXW5R5aCHXyyFRQTceMXAMu</font>
 					</small><br>
 				</p>
 				<p id="retina">This website is 100% compatible with Retina Screen Macs :)</p>

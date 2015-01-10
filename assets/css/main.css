@@ -34,6 +34,11 @@ p {
 	margin-bottom: 25px;
 }
 
+font.mono
+{
+	font-family: monospace;
+}
+
 .centered {
 	text-align: center;
 }
@@ -88,6 +93,17 @@ hr {
 .contributors
 {
 	margin-top: -15px;
+	-webkit-column-count: 4; /* Chrome, Safari, Opera */
+    -moz-column-count: 4; /* Firefox */
+    column-count: 4;
+
+    padding: 0;
+}
+
+.contributors li
+{
+	list-style: none;
+	padding: 0;
 }
 
 .arrow
@@ -249,4 +265,9 @@ ul#todo li
 
 #c p {
 	color: white
+}
+
+#form-384637
+{
+	display: none;
 }
