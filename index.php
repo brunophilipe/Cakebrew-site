@@ -110,8 +110,8 @@
 				</div>
 				<div class="col-lg-4">
 					<img src="assets/img/intro03.png" alt="" style="max-width: 128px; max-height: 128px;">
-					<h3>King of the Jungle</h3>
-					<p>Cakebrew is compatible with all OS X versions back to OS X 10.7 Lion.</p>
+					<h3>Mountain Lion</h3>
+					<p>Cakebrew is compatible with all OS X versions back to OS X 10.8.</p>
 				</div>
 			</div>
 			<hr>
