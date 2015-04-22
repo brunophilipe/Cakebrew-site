@@ -4,8 +4,6 @@ files/
 
 # Created by https://www.gitignore.io
 
-#!! ERROR: o is undefined. Use list command to see defined gitignore types !!#
-
 ### OSX ###
 .DS_Store
 .AppleDouble

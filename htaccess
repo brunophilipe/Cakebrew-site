@@ -3,15 +3,10 @@ RewriteEngine On
 RewriteCond %{REMOTE_ADDR} ^(193\.201\.224\.106|223\.167\.|218\.206\.243\.244|130\.79\.90\.75|42\.48\.24\.241|89\.238\.253\.162|114\.245\.205\.238)
 RewriteRule ^ http://www.google.com [L,R=301]
 
+RewriteCond %{HTTP_HOST} ^cakebrew\.com [NC]
+RewriteRule (.*) http://www.cakebrew.com/$1 [R=301,L]
+
 RewriteCond %{HTTPS} !=on
 RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
-RewriteCond %{HTTP_HOST} !^$
-RewriteCond %{HTTP_HOST} !^w
-
 ErrorDocument 404 /__404.php
-
-#Order Deny,Allow
-#Deny from 218.206.243.244
-#Deny from 164.41.42.50
-#Deny from 130.79.90.75
