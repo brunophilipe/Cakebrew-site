@@ -25,6 +25,17 @@
 
 	<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
+
+	<style type="text/css">
+	.crypto
+	{
+		font-size: 10px;
+		line-height: 12px;
+		margin: 0;
+		display: inline-block;
+		font-family: monospace;
+	}
+	</style>
 </head>
 <body data-spy="scroll" data-offset="0" data-target="#navigation">
 
@@ -363,8 +374,7 @@
 			<div class="col-lg-7">
 				<p>Cakebrew &copy; Bruno Philipe 2014<br>
 					<small>Licensed under GNU GPL v3 License - All Rights Reserved<br>
-						<font class="mono"> BTC: 16EPUhcowtvFXW5R5aCHXyyFRQTceMXAMu</font>
-						<font class="mono">DOGE: DN8La2S6uzJCubkmiZxt41swFub3tNy7GM</font>
+						<font class="mono crypto">&nbsp;BTC: 16EPUhcowtvFXW5R5aCHXyyFRQTceMXAMu<br>DOGE: DN8La2S6uzJCubkmiZxt41swFub3tNy7GM</font>
 					</small><br>
 				</p>
 				<p id="retina">This website is 100% compatible with Retina Screen Macs :)</p>
