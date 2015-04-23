@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Cakebrew - The Mac App for Homebrew">
 	<meta name="author" content="Bruno Philipe - www.brunophilipe.com">
-	<link rel="shortcut icon" href="assets/img/favicon.png">
+	<link rel="shortcut icon" href="/assets/img/favicon.png">
 
 	<link rel="apple-touch-icon-precomposed" href="/assets/img/apple-touch-icon-precomposed.png">
 	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/img/apple-touch-icon-72x72-precomposed.png">
@@ -18,10 +18,10 @@
 	<title>Cakebrew</title>
 
 	<!-- Bootstrap core CSS -->
-	<link href="assets/css/bootstrap.css" rel="stylesheet">
+	<link href="/assets/css/bootstrap.css" rel="stylesheet">
 
 	<!-- Custom styles for this template -->
-	<link href="assets/css/main.css" rel="stylesheet">
+	<link href="/assets/css/main.css" rel="stylesheet">
 
 	<link href='https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
@@ -387,10 +387,10 @@
 	<!-- Bootstrap core JavaScript
 	================================================== -->
 	<!-- Placed at the end of the document so the pages load faster -->
-	<script src="assets/js/jquery.min.js"></script>
-	<script src="assets/js/smooth-scroll.js"></script>
-	<script src="assets/js/bootstrap.js"></script>
-	<script src="assets/js/jquery.mobile.min.js"></script>
+	<script src="/assets/js/jquery.min.js"></script>
+	<script src="/assets/js/smooth-scroll.js"></script>
+	<script src="/assets/js/bootstrap.js"></script>
+	<script src="/assets/js/jquery.mobile.min.js"></script>
 	<script>
 	$('.carousel').carousel({
 		interval: 3500
