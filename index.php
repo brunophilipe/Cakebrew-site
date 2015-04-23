@@ -363,7 +363,8 @@
 			<div class="col-lg-7">
 				<p>Cakebrew &copy; Bruno Philipe 2014<br>
 					<small>Licensed under GNU GPL v3 License - All Rights Reserved<br>
-						<font class="mono">BTC: 16EPUhcowtvFXW5R5aCHXyyFRQTceMXAMu</font>
+						<font class="mono"> BTC: 16EPUhcowtvFXW5R5aCHXyyFRQTceMXAMu</font>
+						<font class="mono">DOGE: DN8La2S6uzJCubkmiZxt41swFub3tNy7GM</font>
 					</small><br>
 				</p>
 				<p id="retina">This website is 100% compatible with Retina Screen Macs :)</p>
