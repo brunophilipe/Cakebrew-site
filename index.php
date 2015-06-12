@@ -166,13 +166,12 @@
 				<div class="row">
 					<h1 class="centered">Download</h1>
 					<br>
-					<p class="text-center"><span class="big">Download Cakebrew today and discover the wonderful world of Homebrew and its Formulas!</span><br>Current Version: 1.1 (May 25th, 2015)</p>
+					<p class="text-center"><span class="big">Download Cakebrew today and discover the wonderful world of Homebrew and its Formulas!</span><br>Current Version: 1.1.1 (Jun 12th, 2015)</p>
 					<br>
 					<p class="text-center">
-						<a href="https://www.cakebrew.com/files/cakebrew-1.1.dmg" class="btn btn-lg btn-primary"><span class="glyphicon glyphicon-cloud-download"></span>Download Now</a>
+						<a href="https://www.cakebrew.com/files/cakebrew-1.1.1.dmg" class="btn btn-lg btn-primary"><span class="glyphicon glyphicon-cloud-download"></span>Download Now</a>
 						<a href="https://github.com/brunophilipe/Cakebrew/releases" class="btn btn-lg btn-warning"><span class="glyphicon glyphicon-folder-open"></span>Get Source <small>on GitHub</small></a>
 					</p>
-					<p><small>Note: Cakebrew is now a signed app thanks to Marek Hrušovský.</small></p>
 				</div>
 				<br>
 				<hr>
