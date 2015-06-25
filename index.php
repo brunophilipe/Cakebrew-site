@@ -133,19 +133,19 @@
 					<p>With Homebrew you can install thousands of command-line applications and libraries that would require manual compilation, which is not always very straight-forward.<br>Cakebrew brings this to a whole new level of simplicity. Install command-line tools from an App. Could it be easier?</p>
 				</div>
 			</div>
-			<br>
-			<hr>
 		</div> <!--/ .container -->
 	</div><!--/ #introwrap -->
 
 	<!-- FEATURES WRAP -->
 	<section id="download"></section>
-	<div class="features">
+	<div class="info">
 		<div class="container">
+			<br>
+			<hr>
 			<div class="col-lg-12 col-md-12 col-sm-12 hidden-xs text-center">
 				<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 				<!-- Cakebrew Ad Line -->
-				<ins class="adsbygoogle" style="display:inline-block;width:728px;height:15px" data-ad-client="ca-pub-9931179619831247" data-ad-slot="9147486207"></ins>
+				<ins class="adsbygoogle" style="display:inline-block;width:728px;height:15px;text-align:center;margin:auto" data-ad-client="ca-pub-9931179619831247" data-ad-slot="9147486207"></ins>
 				<script>
 					(adsbygoogle = window.adsbygoogle || []).push({});
 				</script>
@@ -168,7 +168,7 @@
 					<br>
 					<p class="text-center"><span class="big">Download Cakebrew today and discover the wonderful world of Homebrew and its Formulas!</span><br>Current Version: 1.1.1 (Jun 12th, 2015)</p>
 					<br>
-					<p class="text-center">
+					<p class="text-center btns-download">
 						<a href="https://www.cakebrew.com/files/cakebrew-1.1.1.dmg" class="btn btn-lg btn-primary"><span class="glyphicon glyphicon-cloud-download"></span>Download Now</a>
 						<a href="https://github.com/brunophilipe/Cakebrew/releases" class="btn btn-lg btn-warning"><span class="glyphicon glyphicon-folder-open"></span>Get Source <small>on GitHub</small></a>
 					</p>
@@ -244,6 +244,7 @@
 		<div class="container">
 			<div class="col-lg-12">
 				<div class="row">
+					<br>
 					<h1></h1>
 					<p class="text-center"><span class="big">Cakebrew has been featured on many different tech blogs and websites in different languages. Take a look!</span></p>
 					<br>
@@ -304,6 +305,28 @@
 			</div>
 		</div><!--/ .container -->
 	</div><!--/ #features -->
+
+	<section id="sticker-section"></section>
+	<div id="showcase">
+		<div class="container">
+			<div class="row">
+				<br>
+				<h1 class="centered">Cakebrew Sticker</h1>
+				<br>
+				<div class="col-lg-3 col-lg-offset-1 col-md-4 col-md-offset-1 col-sm-5" id="sticker">
+					<img src="assets/img/sticker.png" style="width: 256px;" alt="Cakebrew Sticker">
+				</div>
+				<div class="visible-xs" id="sticker-spacer"></div>
+				<div class="col-lg-6 col-md-5 col-sm-7" id="sticker-desc">
+					<p>You can now get this delicious vinyl sticker with the Cakebrew icon from nobody else but the awesome guys at <b>StickerMule</b>! They are made with the best materials, are weatherproof and designed to keep bright colors for years.</p>
+					<p>It will look awesome in your stickers collection, and you will contribute to the development of Cakebrew, since a small portion of the price is converted back to the development efforts.</p>
+					<p>The sticker is available individually (or as many as you wish), and free shipping is available for U.S. orders.</p>
+					<br>
+					<p><a href="https://www.stickermule.com/marketplace/5983-cakebrew" target="_blank" class="btn btn-lg btn-info"><span class="glyphicon glyphicon-hand-right"></span> Get your Sticker now!</a></p>
+				</div>
+			</div>
+		</div>
+	</div>	
 
 	<section id="contact"></section>
 	<div id="footerwrap">
