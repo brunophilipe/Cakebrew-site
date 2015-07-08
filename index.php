@@ -166,10 +166,10 @@
 				<div class="row">
 					<h1 class="centered">Download</h1>
 					<br>
-					<p class="text-center"><span class="big">Download Cakebrew today and discover the wonderful world of Homebrew and its Formulas!</span><br>Current Version: 1.1.1 (Jun 12th, 2015)</p>
+					<p class="text-center"><span class="big">Download Cakebrew today and discover the wonderful world of Homebrew and its Formulas!</span><br>Current Version: 1.1.2 (Jul 8th, 2015)</p>
 					<br>
 					<p class="text-center btns-download">
-						<a href="https://www.cakebrew.com/files/cakebrew-1.1.1.dmg" class="btn btn-lg btn-primary"><span class="glyphicon glyphicon-cloud-download"></span>Download Now</a>
+						<a href="https://www.cakebrew.com/files/cakebrew-1.1.2.dmg" class="btn btn-lg btn-primary"><span class="glyphicon glyphicon-cloud-download"></span>Download Now</a>
 						<a href="https://github.com/brunophilipe/Cakebrew/releases" class="btn btn-lg btn-warning"><span class="glyphicon glyphicon-folder-open"></span>Get Source <small>on GitHub</small></a>
 					</p>
 				</div>
@@ -318,7 +318,7 @@
 				</div>
 				<div class="visible-xs" id="sticker-spacer"></div>
 				<div class="col-lg-6 col-md-5 col-sm-7" id="sticker-desc">
-					<p>You can now get this delicious vinyl sticker with the Cakebrew icon from nobody else but the awesome guys at <b>StickerMule</b>! They are made with the best materials, are weatherproof and designed to keep bright colors for years.</p>
+					<p>You can now get this delicious vinyl sticker with the Cakebrew icon from nobody else but the awesome guys at <b>Sticker Mule</b>! They are made with the best materials, are weatherproof and designed to keep bright colors for years.</p>
 					<p>It will look awesome in your stickers collection, and you will contribute to the development of Cakebrew, since a small portion of the price is converted back to the development efforts.</p>
 					<p>The sticker is available individually (or as many as you wish), and free shipping is available for U.S. orders.</p>
 					<br>
