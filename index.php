@@ -311,18 +311,18 @@
 		<div class="container">
 			<div class="row">
 				<br>
-				<h1 class="centered">Cakebrew Sticker</h1>
+				<h1 class="centered">Cakebrew Stickers</h1>
 				<br>
 				<div class="col-lg-3 col-lg-offset-1 col-md-4 col-md-offset-1 col-sm-5" id="sticker">
 					<img src="assets/img/sticker.png" style="width: 256px;" alt="Cakebrew Sticker">
 				</div>
 				<div class="visible-xs" id="sticker-spacer"></div>
 				<div class="col-lg-6 col-md-5 col-sm-7" id="sticker-desc">
-					<p>You can now get this delicious vinyl sticker with the Cakebrew icon from nobody else but the awesome guys at <b>Sticker Mule</b>! They are made with the best materials, are weatherproof and designed to keep bright colors for years.</p>
-					<p>It will look awesome in your stickers collection, and you will contribute to the development of Cakebrew, since a small portion of the price is converted back to the development efforts.</p>
-					<p>The sticker is available individually (or as many as you wish), and free shipping is available for U.S. orders.</p>
+					<p>You can now get this delicious vinyl stickers with the Cakebrew icon from nobody else but the awesome guys at <b>Sticker Mule</b>! They are made with the best materials, are weatherproof and designed to keep bright colors for years.</p>
+					<p>It is going to look awesome in your stickers collection, and you will contribute to the development of Cakebrew, since a small portion of the price is converted back to the development efforts.</p>
+					<p>The stickers are available in two sizes (2x2in and 3x3in), and individually (or as many as you wish), with free shipping available for U.S. orders.</p>
 					<br>
-					<p><a href="https://www.stickermule.com/marketplace/5983-cakebrew" target="_blank" class="btn btn-lg btn-info"><span class="glyphicon glyphicon-hand-right"></span> Get your Sticker now!</a></p>
+					<p><a href="https://www.stickermule.com/marketplace/tags/cakebrew" target="_blank" class="btn btn-lg btn-info"><span class="glyphicon glyphicon-hand-right"></span> Get your Sticker now!</a></p>
 				</div>
 			</div>
 		</div>
