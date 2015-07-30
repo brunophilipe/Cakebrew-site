@@ -395,13 +395,12 @@
 		<div class="container">
 			<div class="col-lg-7">
 				<p>Cakebrew &copy; Bruno Philipe 2014<br>
-					<small>Licensed under GNU GPL v3 License - All Rights Reserved<br>
-						<font class="mono crypto">&nbsp;BTC: 16EPUhcowtvFXW5R5aCHXyyFRQTceMXAMu<br>DOGE: DN8La2S6uzJCubkmiZxt41swFub3tNy7GM</font>
-					</small><br>
+					<small>Licensed under GNU GPL v3 License - All Rights Reserved</small><br>
+					<script>function shapeshift_click(a,e){e.preventDefault();var link=a.href;window.open(link,'1418115287605','width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=0,left=0,top=0');return false;}</script> <a onclick="shapeshift_click(this, event);" href="https://shapeshift.io/shifty.html?destination=LTA4aLXqTYuynxuYwEsW2d2cP7fBHYPdK4&amp;output=LTC"><img style="max-width:239px;" src="/assets/img/small_light_ss.png" class="ss-button"></a>
 				</p>
 				<p id="retina">This website is 100% compatible with Retina Screen Macs :)</p>
 			</div>
-			<div class="col-lg-5 text-right"><p>Website Created by <a href="http://www.brunophilipe.com/">Bruno Philipe</a><br>Theme by <a href="http://www.blacktie.co" target="_blank">BLACKTIE.CO</a><br>Icons from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a></p></div>
+			<div class="col-lg-5 text-right"><p>Website Created by <a href="https://www.brunophilipe.com/">Bruno Philipe</a><br>Theme by <a href="http://www.blacktie.co" target="_blank">BLACKTIE.CO</a><br>Icons from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a></p></div>
 		</div>
 	</div>
 
