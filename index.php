@@ -191,11 +191,21 @@
 			</div>
 			<div class="col-lg-3 col-lg-offset-1 col-md-offset-1 col-md-4 well">
 				<div class="row">
-					<h1 class="centered">To-Do List</h1>
+					<h1 class="centered">Localizations</h1>
 					<ul id="todo">
-						<li><p><b>Homebrew installation.</b> Allow user to install Homebrew from within Cakebrew.</p></li>
-						<li><p><b>Support Homebrew localizations!</b> Currently only English is supported.<br>The data parser currently relies on the "==> Dependencies" and other similar strings.</p></li>
-						<li><p>And much more!</p></li>
+						<li><b>Cakebrew currently supports:</b>
+							<ul>
+								<li>English</li>
+								<li>Portuguese</li>
+								<li>German</li>
+							</ul>
+						</li>
+						<li><b>In the pipeline:</b>
+							<ul>
+								<li>French</li>
+								<li>Spanish</li>
+							</ul>
+						</li>
 					</ul>
 				</div>
 			</div>
