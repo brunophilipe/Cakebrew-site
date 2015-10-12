@@ -29,8 +29,8 @@
 	<style type="text/css">
 	.crypto
 	{
-		font-size: 10px;
-		line-height: 12px;
+		font-size: 12px;
+		line-height: 15px;
 		margin: 0;
 		display: inline-block;
 		font-family: monospace;
@@ -406,7 +406,9 @@
 			<div class="col-lg-7">
 				<p>Cakebrew &copy; Bruno Philipe 2014<br>
 					<small>Licensed under GNU GPL v3 License - All Rights Reserved</small><br>
-					<script>function shapeshift_click(a,e){e.preventDefault();var link=a.href;window.open(link,'1418115287605','width=700,height=500,toolbar=0,menubar=0,location=0,status=1,scrollbars=1,resizable=0,left=0,top=0');return false;}</script> <a onclick="shapeshift_click(this, event);" href="https://shapeshift.io/shifty.html?destination=LTA4aLXqTYuynxuYwEsW2d2cP7fBHYPdK4&amp;output=LTC"><img style="max-width:239px;" src="/assets/img/small_light_ss.png" class="ss-button"></a>
+					<code class="crypto">BTC: 16DyHShrNTyd8koJH7H3EPG9wEFt6LHnX4</code><br>
+					<code class="crypto">LTC: LUtP7Lw4Tw1dfv5xVewQAhDFYEQkf3nicu</code><br>
+					<code class="crypto">VTC: VcfcL85CsUnSk7qVp4i5LUy3L4NcepkMJ5</code>
 				</p>
 				<p id="retina">This website is 100% compatible with Retina Screen Macs :)</p>
 			</div>
