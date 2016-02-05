@@ -44,7 +44,7 @@ font.mono
 }
 
 .carousel-inner img {
-  max-height: 523px;
+  max-height: 524px;
 }
 
 /* Links */
@@ -119,12 +119,12 @@ hr {
 #main-screenshot
 {
 	margin: auto;
-    max-height: 523px;
+    max-height: 524px;
 }
 
 .carousel-inner img
 {
-	/*height: 523px !important;*/
+	/*height: 524px !important;*/
 	margin: auto;
 }
 
