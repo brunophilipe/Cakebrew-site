@@ -88,7 +88,7 @@
 				<div class="col-lg-2 col-md-3">
 					<br>
 					<h5>Practical &amp; Easy</h5>
-					<p>Afraid to use the terminal but need that small program or tool? Cakebrew is for you too!</p>
+					<p>Afraid to use the terminal? Cakebrew supports <b>Homebrew/bundle</b>. Export and import formulae easily!</p>
 					<img class="hidden-xs hidden-sm arrow" src="assets/img/arrow2.png" alt="Arrow pointing left">
 				</div>
 			</div>
@@ -227,6 +227,7 @@
 						<li data-target="#carousel-screenshots" data-slide-to="0" class="active"></li>
 						<li data-target="#carousel-screenshots" data-slide-to="1"></li>
 						<li data-target="#carousel-screenshots" data-slide-to="2"></li>
+						<li data-target="#carousel-screenshots" data-slide-to="3"></li>
 						</ol>
 
 						<!-- Wrapper for slides -->
@@ -239,6 +240,9 @@
 							</div>
 							<div class="item">
 								<img src="assets/img/item-03.png" alt="Complete formula information." data-retina-resize="false">
+							</div>
+							<div class="item">
+								<img src="assets/img/item-04.png" alt="Homebrew/bundle support." data-retina-resize="false">
 							</div>
 						</div>
 					</div>
