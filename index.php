@@ -166,10 +166,10 @@
 				<div class="row">
 					<h1 class="centered">Download</h1>
 					<br>
-					<p class="text-center"><span class="big">Download Cakebrew today and discover the wonderful world of Homebrew and its Formulas!</span><br>Current Version: 1.1.5 (Oct 29th, 2015)</p>
+					<p class="text-center"><span class="big">Download Cakebrew today and discover the wonderful world of Homebrew and its Formulas!</span><br>Current Version: 1.2 (Feb 22th, 2016)</p>
 					<br>
 					<p class="text-center btns-download">
-						<a href="https://www.cakebrew.com/files/cakebrew-1.1.5.dmg" class="btn btn-lg btn-primary"><span class="glyphicon glyphicon-cloud-download"></span>Download Now</a>
+						<a href="https://www.cakebrew.com/files/cakebrew-1.2.dmg" class="btn btn-lg btn-primary"><span class="glyphicon glyphicon-cloud-download"></span>Download Now</a>
 						<a href="https://github.com/brunophilipe/Cakebrew/releases" class="btn btn-lg btn-warning"><span class="glyphicon glyphicon-folder-open"></span>Get Source <small>on GitHub</small></a>
 					</p>
 				</div>
@@ -198,11 +198,12 @@
 								<li>English</li>
 								<li>Portuguese</li>
 								<li>German</li>
+								<li>French</li>
+								<li>Chinese (Simplified)</li>
 							</ul>
 						</li>
 						<li><b>In the pipeline:</b>
 							<ul>
-								<li>French</li>
 								<li>Spanish</li>
 							</ul>
 						</li>
@@ -358,7 +359,7 @@
 				</p>
 				<ul class="contributors">
 <?php
-					$contributors = array("tanB", "ed-george", "abrausch", "nudelfabrik", "supreet321", "pborreli", "maximgavrilov", "cldsnchz", "hexxellor", "xhruso00", "smokyonion", "vincentsaluzzo", "alistairmcmillan", "gui-dos", "romankl", "gvt", "podgib", "matthewgadd", "duffpod", "dusek", "thenovices");
+					$contributors = array("bfontaine", "coderyi", "jeanetienne", "jojomi", "davidspiess", "nlap", "forcha", "tanB", "ed-george", "abrausch", "nudelfabrik", "supreet321", "pborreli", "maximgavrilov", "cldsnchz", "hexxellor", "xhruso00", "smokyonion", "vincentsaluzzo", "alistairmcmillan", "gui-dos", "romankl", "gvt", "podgib", "matthewgadd", "duffpod", "dusek", "thenovices");
 					sort($contributors);
 					foreach ($contributors as $user) {
 						echo "					<li><a href=\"https://github.com/$user\">$user</a></li>\n";
@@ -371,7 +372,7 @@
 				<p><small><b>
 					Cakebrew supports all versions of OS X back to version 10.8.
 					<br>
-					Cakebrew is written in Objective-C and compiled in Xcode 7.1 on OS 10.11.1.
+					Cakebrew is written in Objective-C and compiled in Xcode 7.2.1 on OS 10.11.3.
 				</b></small></p>
 			</div>
 
@@ -439,16 +440,6 @@
 	});
 	</script>
 	<script type="text/javascript" src="assets/js/retina.js"></script>
-	<script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-	  ga('create', 'UA-30675692-3', 'cakebrew.com');
-	  ga('send', 'pageview');
-
-	</script>
 	<script>
 	  $(document).ready(function() {
   		 $("#carousel-screenshots").swiperight(function() {
