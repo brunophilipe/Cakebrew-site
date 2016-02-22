@@ -346,7 +346,7 @@
 				<h3>Cakebrew Maintainer</h3>
 				<p>
 					<b>Bruno Philipe</b><br>
-					<small>Brasilia, Brazil &mdash;
+					<small>Stockholm, Sweden &mdash;
 						<a href="http://www.brunophilipe.com/">Website</a> |
 						<script type="text/javascript">
 							document.write("<a href=\"mailto:" + "Bruno Philipe <hell" + "o@" + "brunophilipe" + ".com>\">Em" + "ail</a> |");
