@@ -140,28 +140,6 @@
 	<section id="download"></section>
 	<div class="info">
 		<div class="container">
-			<br>
-			<hr>
-			<div class="col-lg-12 col-md-12 col-sm-12 hidden-xs text-center">
-				<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-				<!-- Cakebrew Ad Line -->
-				<ins class="adsbygoogle" style="display:inline-block;width:728px;height:15px;text-align:center;margin:auto" data-ad-client="ca-pub-9931179619831247" data-ad-slot="9147486207"></ins>
-				<script>
-					(adsbygoogle = window.adsbygoogle || []).push({});
-				</script>
-			</div>
-			<div class="visible-xs" style="width:320px; height:50px; margin-left:-15px; overflow:hidden;">
-				<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-				<!-- Cakebrew Mobile Banner -->
-				<ins class="adsbygoogle"
-					 style="display:inline-block;width:320px;height:50px"
-					 data-ad-client="ca-pub-9931179619831247"
-					 data-ad-slot="2715516209"></ins>
-				<script>
-				(adsbygoogle = window.adsbygoogle || []).push({});
-				</script>
-			</div>
-			<hr>
 			<div class="col-lg-8 col-md-7">
 				<div class="row">
 					<h1 class="centered">Download</h1>
@@ -169,7 +147,7 @@
 					<p class="text-center"><span class="big">Download Cakebrew today and discover the wonderful world of Homebrew and its Formulas!</span><br>Current Version: 1.2 (Feb 22th, 2016)</p>
 					<br>
 					<p class="text-center btns-download">
-						<a href="https://www.cakebrew.com/files/cakebrew-1.2.dmg" class="btn btn-lg btn-primary"><span class="glyphicon glyphicon-cloud-download"></span>Download Now</a>
+						<a href="https://cakebrew-377a.kxcdn.com/cakebrew-1.2.dmg" class="btn btn-lg btn-primary"><span class="glyphicon glyphicon-cloud-download"></span>Download Now</a>
 						<a href="https://github.com/brunophilipe/Cakebrew/releases" class="btn btn-lg btn-warning"><span class="glyphicon glyphicon-folder-open"></span>Get Source <small>on GitHub</small></a>
 					</p>
 				</div>
@@ -417,7 +395,11 @@
 				</p>
 				<p id="retina">This website is 100% compatible with Retina Screen Macs :)</p>
 			</div>
-			<div class="col-lg-5 text-right"><p>Website Created by <a href="https://www.brunophilipe.com/">Bruno Philipe</a><br>Theme by <a href="http://www.blacktie.co" target="_blank">BLACKTIE.CO</a><br>Icons from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a></p></div>
+			<div class="col-lg-5 text-right">
+				<p>Website Created by <a href="https://www.brunophilipe.com/">Bruno Philipe</a><br>Theme by <a href="http://www.blacktie.co" target="_blank">BLACKTIE.CO</a><br>Icons from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a></p>
+				<p>High-avaliability file hosting provided by:<br><a href="https://www.keycdn.com/?a=14202" target="_blank"><img src="assets/img/keycdn.png" alt="KeyCDN" height="40px"></a></p>
+				
+			</div>
 		</div>
 	</div>
 
