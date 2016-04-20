@@ -1,5 +1,6 @@
 appcast/
 files/
+resources/
 .htaccess
 
 # Created by https://www.gitignore.io
