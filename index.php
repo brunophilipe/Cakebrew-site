@@ -399,7 +399,7 @@
 				<p id="retina">This website is 100% compatible with Retina Screen Macs :)</p>
 			</div>
 			<div class="col-lg-5 text-right">
-				<p>Website Created by <a href="https://www.brunophilipe.com/">Bruno Philipe</a><br>Theme by <a href="http://www.blacktie.co" target="_blank">BLACKTIE.CO</a><br>Icons from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a></p>
+				<p>Website Created by <a href="https://www.brunophilipe.com/">Bruno Philipe</a><br>Theme by <a href="http://www.blacktie.co" target="_blank">BLACKTIE.CO</a><br>Icons from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a><br>Server hosted by <a href="https://m.do.co/c/f71ace2f461f">DigitalOcean</a></p>
 				<p>High-avaliability file hosting provided by:<br><a href="https://www.keycdn.com/?a=14202" target="_blank"><img src="assets/img/keycdn.png" alt="KeyCDN" height="40px"></a></p>
 				
 			</div>
