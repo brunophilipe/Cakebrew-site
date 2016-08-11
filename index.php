@@ -144,14 +144,14 @@
 				<div class="row">
 					<h1 class="centered">Download</h1>
 					<br>
-					<p class="text-center"><span class="big">Download Cakebrew today and discover the wonderful world of Homebrew and its Formulas!</span><br>Current Version: 1.2 (Feb 22th, 2016)</p>
+					<p class="text-center"><span class="big">Download Cakebrew today and discover the wonderful world of Homebrew and its Formulae!</span><br>Current Version: 1.2.1 (Jul 17th, 2016)</p>
 					<br>
 					<p class="text-center btns-download">
-						<a href="https://cdn.cakebrew.com/cakebrew-1.2.dmg" class="btn btn-lg btn-primary"><span class="glyphicon glyphicon-cloud-download"></span>Download Now <small>via KeyCDN</small></a>
+						<a href="https://cdn.cakebrew.com/cakebrew-1.2.1.dmg" class="btn btn-lg btn-primary"><span class="glyphicon glyphicon-cloud-download"></span>Download Now <small>via KeyCDN</small></a>
 						<a href="https://github.com/brunophilipe/Cakebrew/releases" class="btn btn-lg btn-warning"><span class="glyphicon glyphicon-folder-open"></span>Get Source <small>on GitHub</small></a>
 					</p>
 					<p class="text-center">
-						<a class="btn btn-sm btn-default" href="https://www.cakebrew.com/files/cakebrew-1.2.dmg">Direct Download</a>
+						<a class="btn btn-sm btn-default" href="https://www.cakebrew.com/files/cakebrew-1.2.1.dmg">Direct Download</a>
 					</p>
 				</div>
 				<br>
@@ -214,7 +214,7 @@
 						<!-- Wrapper for slides -->
 						<div class="carousel-inner">
 							<div class="item active">
-								<img src="assets/img/item-01.png" alt="Search for formulas." data-retina-resize="false">
+								<img src="assets/img/item-01.png" alt="Search for formulae." data-retina-resize="false">
 							</div>
 							<div class="item">
 								<img src="assets/img/item-02.png" alt="Run the Doctor!" data-retina-resize="false">
