@@ -338,11 +338,8 @@
 				<h3>Cakebrew Maintainer</h3>
 				<p>
 					<b>Bruno Philipe</b><br>
-					<small>Stockholm, Sweden &mdash;
+					<small>Barcelona, Spain &mdash;
 						<a href="http://www.brunophilipe.com/">Website</a> |
-						<script type="text/javascript">
-							document.write("<a href=\"mailto:" + "Bruno Philipe <hell" + "o@" + "brunophilipe" + ".com>\">Em" + "ail</a> |");
-						</script>
 						<a href="https://github.com/brunophilipe">GitHub</a>
 					</small>
 				</p>
@@ -397,11 +394,8 @@
 	<div id="c">
 		<div class="container">
 			<div class="col-lg-7">
-				<p>Cakebrew &copy; Bruno Philipe 2014<br>
+				<p>Cakebrew &copy; Bruno Philipe 2014-<?= date('Y') ?><br>
 					<small>Licensed under GNU GPL v3 License - All Rights Reserved</small><br>
-					<code class="crypto">BTC: 16DyHShrNTyd8koJH7H3EPG9wEFt6LHnX4</code><br>
-					<code class="crypto">LTC: LUtP7Lw4Tw1dfv5xVewQAhDFYEQkf3nicu</code><br>
-					<code class="crypto">VTC: VcfcL85CsUnSk7qVp4i5LUy3L4NcepkMJ5</code>
 				</p>
 				<p id="retina">This website is 100% compatible with Retina Screen Macs :)</p>
 			</div>
