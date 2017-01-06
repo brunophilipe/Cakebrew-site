@@ -254,6 +254,9 @@
 					<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12">
 						<p>In English:</p>
 						<ul>
+							<li><a href="https://news.ycombinator.com/item?id=7668383" target="_blank">Hacker News</a></li>
+							<li><a href="https://www.reddit.com/r/osx/comments/24b3al/cakebrew_the_mac_app_for_homebrew/" target="_blank">Reddit r/osx</a></li>
+							<li><a href="https://www.reddit.com/r/macapps/comments/4mv8p7/cakebrew/" target="_blank">Reddit r/macapps</a></li>
 							<li><a href="http://ios.devtools.me/bydate.php" target="_blank">iOS.DevTools.Me</a></li>
 							<li><a href="http://brettterpstra.com/2014/04/29/web-excursions-for-april-29-2014/" target="_blank">brettterpstra.com</a></li>
 							<li><a href="http://onethingwell.org/post/84527275991/cakebrew" target="_blank">onethingwell.org</a></li>
