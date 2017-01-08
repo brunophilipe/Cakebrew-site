@@ -303,3 +303,30 @@ ul#todo li
 {
 	display: none;
 }
+
+.footer-left
+{
+	text-align: center;
+}
+
+.footer-right
+{
+	text-align: center;
+}
+
+@media (min-width: 768px)
+{
+	.footer-left
+	{
+		text-align: left;
+		width: 60%;
+		float: left;
+	}
+	
+	.footer-right
+	{
+		text-align: right;
+		width: 40%;
+		float: right;
+	}
+}

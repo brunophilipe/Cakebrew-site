@@ -1,3 +1,17 @@
+<?php
+
+function ipVersion($txt = null)
+{
+	if ($txt === null) $txt = $_SERVER["REMOTE_ADDR"];
+    return strpos($txt, ":") === false ? 4 : 6;
+}
+
+function isIPv6()
+{
+	return ipVersion() === 6;
+}
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -396,13 +410,13 @@
 	</div>
 	<div id="c">
 		<div class="container">
-			<div class="col-lg-7">
+			<div class="footer-left">
 				<p>Cakebrew &copy; Bruno Philipe 2014-<?= date('Y') ?><br>
-					<small>Licensed under GNU GPL v3 License - All Rights Reserved</small><br>
+					<small>Licensed under GNU GPLv3 License - All Rights Reserved</small><br>
 				</p>
-				<p id="retina">This website is 100% compatible with Retina Screen Macs :)</p>
+				<p id="retina">This website is IPv6 ready<?= isIPv6() ? ", and you're connected via IPv6!! Cool! 😎" : ", but you're connected via IPv4." ?></p>
 			</div>
-			<div class="col-lg-5 text-right">
+			<div class="footer-right">
 				<p>Website Created by <a href="https://www.brunophilipe.com/">Bruno Philipe</a><br>Theme by <a href="http://www.blacktie.co" target="_blank">BLACKTIE.CO</a><br>Icons from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a><br>Server hosted by <a href="https://m.do.co/c/f71ace2f461f">DigitalOcean</a></p>
 				<p>High-avaliability file hosting provided by:<br><a href="https://www.keycdn.com/?a=14202" target="_blank"><img src="assets/img/keycdn.png" alt="KeyCDN" height="40px"></a></p>
 				
