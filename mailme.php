@@ -15,7 +15,7 @@ if ($status) {
 	$email_s_message	= $_POST['text'];
 	$email_s_ip			= $_SERVER['REMOTE_ADDR'];
 
-	$email_to			= "Bruno Philipe <brunophilipe@zoho.com>";
+	$email_to			= "Bruno Philipe <contact@brunophilipe.com>";
 	$email_subject		= "Message sent from Cakebrew contact form.";
 	$email_from			= "From: Cakebrew Contact Form <mailme@cakebrew.com>\r\nContent-Type: text/html\r\nReply-To: $email_s_name <$email_s_email>\r\n";
 	$email_message		=
