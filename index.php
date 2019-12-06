@@ -355,8 +355,8 @@ function isIPv6()
 				<h3>Cakebrew Maintainer</h3>
 				<p>
 					<b>Bruno Philipe</b><br>
-					<small>Barcelona, Spain &mdash;
-						<a href="http://www.brunophilipe.com/">Website</a> |
+					<small>Berlin, Germany &mdash;
+						<a href="http://bruno.ph/">Website</a> |
 						<a href="https://github.com/brunophilipe">GitHub</a>
 					</small>
 				</p>
