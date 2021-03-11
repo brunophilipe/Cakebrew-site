@@ -195,12 +195,8 @@ function isIPv6()
 								<li>Portuguese</li>
 								<li>German</li>
 								<li>French</li>
+								<li>Italian</li>
 								<li>Chinese (Simplified)</li>
-							</ul>
-						</li>
-						<li><b>In the pipeline:</b>
-							<ul>
-								<li>Spanish</li>
 							</ul>
 						</li>
 					</ul>
