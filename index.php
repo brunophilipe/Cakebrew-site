@@ -174,7 +174,7 @@ function isIPv6()
 					<h1 class="centered">...or install via Homebrew</h1>
 					<p class="text-center">How recursive is that?</p>
 					<br>
-					<p class="text-center"><span class="big">Just run this command:</span><br><code>brew cask install cakebrew</code></p>
+					<p class="text-center"><span class="big">Just run this command:</span><br><code>brew install --cask cakebrew</code></p>
 				</div>
 				<hr>
 				<div class="row">
