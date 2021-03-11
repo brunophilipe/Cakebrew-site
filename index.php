@@ -135,8 +135,8 @@ function isIPv6()
 				</div>
 				<div class="col-lg-4">
 					<img src="assets/img/intro03.png" alt="" style="max-width: 128px; max-height: 128px;">
-					<h3>Mountain Lion</h3>
-					<p>Cakebrew is compatible with all OS X versions back to OS X 10.8.</p>
+					<h3>Yosemite</h3>
+					<p>Cakebrew is compatible with all macOS versions back to OS X 10.10.</p>
 				</div>
 			</div>
 			<hr>
@@ -159,14 +159,14 @@ function isIPv6()
 				<div class="row">
 					<h1 class="centered">Download</h1>
 					<br>
-					<p class="text-center"><span class="big">Download Cakebrew today and discover the wonderful world of Homebrew and its Formulae!</span><br>Current Version: 1.2.5 (Oct 22nd, 2017)</p>
+					<p class="text-center"><span class="big">Download Cakebrew today and discover the wonderful world of Homebrew and its Formulae!</span><br>Current Version: 1.3 (Mar 11th, 2021) (Intel and Apple Silicon)</p>
 					<br>
 					<p class="text-center btns-download">
-						<a href="https://cakebrew-377a.kxcdn.com/cakebrew-1.2.5.dmg" class="btn btn-lg btn-primary"><span class="glyphicon glyphicon-cloud-download"></span>Download Now <small>via KeyCDN</small></a>
+						<a href="https://cakebrew-377a.kxcdn.com/cakebrew-1.3.zip" class="btn btn-lg btn-primary"><span class="glyphicon glyphicon-cloud-download"></span>Download Now <small>via KeyCDN</small></a>
 						<a href="https://github.com/brunophilipe/Cakebrew/releases" class="btn btn-lg btn-warning"><span class="glyphicon glyphicon-folder-open"></span>Get Source <small>on GitHub</small></a>
 					</p>
 					<p class="text-center">
-						<a class="btn btn-sm btn-default" href="https://www.cakebrew.com/files/cakebrew-1.2.5.dmg">Direct Download</a>
+						<a class="btn btn-sm btn-default" href="https://www.cakebrew.com/files/cakebrew-1.3.zip">Direct Download</a>
 					</p>
 				</div>
 				<hr>
@@ -354,9 +354,9 @@ function isIPv6()
 
 				<hr>
 				<p><small><b>
-					Cakebrew supports all versions of OS X back to version 10.8.
+					Cakebrew supports all versions of macOS back to OS X 10.10.
 					<br>
-					Cakebrew is written in Objective-C and compiled in Xcode 7.2.1 on OS 10.11.3.
+					Cakebrew is written in Objective-C and compiled in Xcode 12.4 on macOS 11.2.3.
 				</b></small></p>
 			</div>
 
@@ -397,7 +397,7 @@ function isIPv6()
 			<div class="footer-right">
 				<p>Website Created by <a href="https://www.brunophilipe.com/">Bruno Philipe</a><br>Theme by <a href="http://www.blacktie.co" target="_blank">BLACKTIE.CO</a><br>Icons from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a><br>Server hosted by <a href="https://m.do.co/c/f71ace2f461f">DigitalOcean</a></p>
 				<p>High-avaliability file hosting provided by:<br><a href="https://www.keycdn.com/?a=14202" target="_blank"><img src="assets/img/keycdn.png" alt="KeyCDN" height="40px"></a></p>
-				
+
 			</div>
 		</div>
 	</div>
